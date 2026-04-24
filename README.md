@@ -15,7 +15,6 @@ Estudiante de Ingenieria Informatica con solida base tecnica en **Java, C, Pytho
 - Especializado en **sistemas concurrentes**, bases de datos avanzadas y algoritmia NP
 - +2 anos de experiencia en seguridad, salvamento y gestion de riesgos en entornos criticos
 - Formacion en Astrofisica y Astrobiologia — Cumlaude School (2018-2019)
-- Dungeon Master — campana homebrew D&D 5e activa (*Cronicas del Reino Amurallado*, 6 jugadores)
 - Road tripper | Camper van | Espana y mas alla
 - Carne de conducir tipo B (EU)
 
@@ -168,11 +167,6 @@ Specialized training in advanced scientific methodology, analytical observation 
 - NP algorithms, computational complexity theory and graph problems
 - Systems security and role-based access control (RBAC) design
 
-### D&D 5e — Dungeon Master
-- Active homebrew campaign: *Cronicas del Reino Amurallado* (6 players, ongoing)
-- World design, lore, political factions and kingdom history
-- Puzzle creation, scaled encounters and branched narrative design
-- NPC design with independent motivations, arcs and relationships
 
 ### Travel, sport & exploration
 - Camper van road trips across Spain — zero tolls, off-the-beaten-path routes (Park4Night)
