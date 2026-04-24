@@ -45,8 +45,7 @@ En el plano técnico, mi formación se centra en **sistemas concurrentes y distr
 
 Resume and Cover Letter uploaded here:
 
-href=https://github.com/Danix29/Resume).
-
+<a href="https://github.com/Danix29/Resume"><b>Resume Landing Page</b></a>
 
 ---
 ## 🛠️ Stack
