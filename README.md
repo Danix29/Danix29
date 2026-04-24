@@ -1,28 +1,47 @@
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1D9E75¢er=true&width=700&lines=Daniel+Del+Nogal+Buchanan;B.S.+Computer+Engineering+%40+UAH;Concurrent+Systems+%7C+Databases+%7C+Algorithms;Security+%26+Risk+Management+%7C+2%2B+years;Dungeon+Master+%7C+Road+Tripper+%7C+Swimmer)
 
 
 
 
----
 
-## About me
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1D9E75¢er=true&width=700&lines=Concurrent+Systems+%7C+Databases+%7C+Algorithms;Security+%26+Risk+Management+%7C+2%2B+years;Dungeon+Master+%7C+Road+Tripper+%7C+Torrej%C3%B3n+de+Ardoz)
 
-Estudiante de Ingenieria Informatica con solida base tecnica en **Java, C, Python y SQL**, especializado en sistemas concurrentes, bases de datos avanzadas y algoritmia. Combino rigor academico con **mas de 2 anos de experiencia profesional** en entornos de alta responsabilidad — gestion de protocolos de seguridad fisica, supervision operativa y coordinacion de equipos. Mi perfil tecnico-operativo me permite abordar problemas complejos con metodologia analitica, atencion al detalle y capacidad probada para tomar decisiones bajo presion.
+[![Email](https://img.shields.io/badge/dani.del.nogal%40gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
+[![GitHub](https://img.shields.io/badge/Danix29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Danix29)
+[![Location](https://img.shields.io/badge/Torrej%C3%B3n%20de%20Ardoz%2C%20Madrid-085041?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Phone](https://img.shields.io/badge/%2B34%20644%20543%20608-5DCAA5?style=flat-square&logo=whatsapp&logoColor=white)]()
 
-- Grado en Ingenieria Informatica — Universidad de Alcala de Henares (2024-2028)
-- Especializado en **sistemas concurrentes**, bases de datos avanzadas y algoritmia NP
-- +2 anos de experiencia en seguridad, salvamento y gestion de riesgos en entornos criticos
-- Formacion en Astrofisica y Astrobiologia — Cumlaude School (2018-2019)
-- Road tripper | Camper van | Espana y mas alla
-- Carne de conducir tipo B (EU)
 
----
 
-## Stack
 
-### Programming languages
+
+
+
+
+
+
+```
+  Estudiante de Ingeniería Informática con sólida base técnica en Java, C, Python y SQL.
+  Especializado en sistemas concurrentes, bases de datos avanzadas y algoritmia NP.
+  +2 años de experiencia profesional en entornos de alta responsabilidad — seguridad física,
+  supervisión operativa y coordinación de equipos. Perfil técnico-operativo con metodología
+  analítica, alta atención al detalle y capacidad probada de decisión bajo presión.
+```
+
+|   |   |   |
+|---|---|---|
+| 🎓 **GII** — Univ. Alcalá 2024-2028 | ⚙️ **Concurrent & distributed systems** | 🛡️ **Security specialist** +2yr |
+| 🔭 **Astrophysics** — Cumlaude School | 🎲 **DM** — D&D 5e homebrew campaign | 🚐 **Road tripper** camper van España |
+
+
+
+
+
+
+
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,152 +50,183 @@ Estudiante de Ingenieria Informatica con solida base tecnica en **Java, C, Pytho
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Tools & platforms
+**Tools & platforms**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
----
-
-## Technical skills
-
-| Area | Skills | Level |
-|------|--------|-------|
-| Concurrent systems | Java multithreading, POSIX pthreads, mutex, semaphores, deadlock detection | Advanced |
-| Distributed systems | Java RMI, client-server architecture, remote interfaces, registry | Advanced |
-| Databases | SQL, PL/SQL, Oracle, triggers, RBAC, stored procedures, views | Advanced |
-| Advanced databases | PostgreSQL internals, B-Tree/Hash indexes, physical storage, partitioning, VACUUM | Advanced |
-| Data structures | Linked lists, queues, stacks, trees, dynamic memory management in C | Advanced |
-| Algorithms | Dynamic Programming, Backtracking, Branch & Bound, complexity O(n) analysis | Intermediate+ |
-| Software Engineering | UML (class/sequence/use-case/deployment), IEEE 830, JUnit, cyclomatic complexity | Intermediate |
-| Systems programming | Linux, Bash, POSIX services, process and thread management | Intermediate |
-| Digital logic | Sequential systems, flip-flops, counters, circuit design, timing diagrams | Basic |
-
----
-
-## Soft skills
-
-### Leadership & management
-- Coordination of security teams in critical, high-traffic environments requiring constant situational awareness
-- Autonomous real-time decision making under operational constraints and high-pressure scenarios
-- Session supervision and activity compliance monitoring ensuring protocol adherence at all times
-- Academic group work coordination — collaborative projects and lab practices at UAH
-
-### Analysis & methodology
-- Preventive risk assessment and proactive incident identification before issues materialize
-- Scientific research methodology applied to technical problems (background in Astrophysics)
-- Systematic data observation and pattern recognition with high attention to detail
-- Continuous evaluation of technical infrastructure parameters and performance metrics
-
-### Communication & documentation
-- Structured technical reporting to stakeholders and institutional management
-- IEEE 830 requirements specification and full UML diagram documentation
-- Oral project defense before academic tribunals and peer groups
-- Professional bilingual communication in international environments (Spanish/English at military base)
-
-### Operations & security
-- Access control, user flow management and capacity monitoring in high-use facilities
-- Advanced emergency protocol execution with full regulatory compliance
-- Preventive infrastructure maintenance and technical quality control monitoring
-- Systematic documentation of incidents, access logs and operational reports
-
-### Strategic planning
-- Design of customized technical performance plans with measurable objectives and progress phases
-- Goal definition, tracking and adjustment in dynamic and changing operational contexts
-- Logistical coordination of intensive-use facility operations
-- Strategic adaptation to normative changes and new environmental requirements
-
----
-
-## Languages
-
-| Language | Level | Details |
-|----------|-------|---------|
-| Espanol | C2 — Native | Full oral and written proficiency. Primary language for all academic and professional work. Technical documentation, reports and project memory writing. |
-| English | B2 — Upper-intermediate | Bilingual school background (Humanitas). Active professional communication at Base Aerea de Torrejon with international military personnel. Currently preparing C1 Advanced certification. Reading technical documentation, papers and academic resources in English. |
-
----
-
-## Professional experience
-
-### Security, Lifesaving & Risk Management Specialist
-**Base Aerea de Torrejon · Humanitas Bilingual School — Torrejon de Ardoz** | May 2023 - Present
-
-`Emergency protocols` `Operational logistics` `Preventive analysis` `Infrastructure QC` `Incident management` `Risk assessment`
-
-- Execution of advanced security protocols and emergency procedures in critical environments — military and school facilities with high user volume — ensuring full regulatory compliance and the safety of all personnel at all times
-- Coordination of security teams for comprehensive facility management: restricted access control and registration, user flow supervision, capacity monitoring and systematic documentation of all operational incidents
-- Continuous preventive evaluation of security conditions to identify, categorize and mitigate potential risks before they materialize, applying systematic analysis methodology with high attention to detail and proactive problem resolution
-- Technical monitoring of critical infrastructure parameters (water quality, emergency equipment, facility conditions) and execution of preventive maintenance to maintain optimal health and safety standards
-- Daily work in a fully bilingual environment (Spanish/English) with direct interaction with international military staff from Base Aerea de Torrejon, developing professional communication fluency in demanding technical and operational contexts
-
-### Swimming Instructor & Aquatic Activities Coordinator
-**Humanitas Bilingual School — Torrejon de Ardoz** | Feb 2025 - Present
-
-`Strategic planning` `Supervision` `Safety compliance` `Stakeholder reporting` `Team coordination` `Performance tracking`
-
-- Design and implementation of fully personalized swimming technical plans for each student, defining measurable performance objectives, phased progression milestones and evaluation criteria adapted to different skill levels and physical conditions
-- Continuous and integral session supervision to guarantee the physical integrity of participants, compliance with aquatic safety protocols and correct development of all activities within the center's standards
-- Technical communication management with school management and families, producing periodic progress reports and reporting incidents with clarity and professional rigor
-- Coordination of heterogeneous groups — children, adults and competitive swimmers — adapting methodology, pace and teaching resources to the specific needs of each group and the objectives of the annual program
-- Responsible for opening and closing of aquatic facilities, verification of water technical conditions and safety equipment, and application of emergency procedures when required
-
----
-
-## Education
-
-### B.S. Computer Engineering
-**Universidad de Alcala de Henares — GII** | Aug 2024 - 2028 (expected)
-
-Key courses completed: Advanced Programming (Java RMI + distributed concurrency), Operating Systems (POSIX, threads, memory), Databases I (SQL, Oracle, relational model), Advanced Databases (PostgreSQL, indexing, physical storage), Software Engineering (full UML, IEEE 830, testing), Algorithms & Complexity (DP, Backtracking, Branch & Bound, O(n)), Computer Architecture (sequential systems, digital logic), Data Structures (C, linked lists, trees, dynamic memory).
-
-### High School Diploma — Science & Technology
-**Humanitas Bilingual School Torrejon** | Aug 2022 - Jun 2024
-
-Full bilingual scientific-technical education (Spanish/English). Strong foundation in mathematics, physics and scientific methodology supporting the current technical profile. International environment with native English-speaking faculty.
-
-### Astrophysics & Astrobiology — Pre-university specialized courses
-**Cumlaude School** | Oct 2018 - Jul 2019
-
-Specialized training in advanced scientific methodology, analytical observation of astronomical data and critical thinking. This background developed systematic analysis capability and attention to detail that directly translates into technical engineering work.
-
----
-
-## Projects
-
-| # | Repository | Description | Year | Stack |
-|---|------------|-------------|------|-------|
-| 🔴 | [batalla-de-hawkins](https://github.com/Danix29/batalla-de-hawkins) | Concurrent distributed simulation — Java RMI + multithreading, 16 classes, deadlock management and multi-layer synchronization | 2024-25 | `Java` `RMI` `Threads` |
-| 🟠 | [algoritmia-logistica-urbana](https://github.com/Danix29/algoritmia-logistica-urbana) | Knapsack 0/1 DP O(n·C) + TSP Backtracking with Branch & Bound pruning + Floyd-Warshall precalculation + greedy comparison | 2025-26 | `Python` `DP` `B&B` |
-| 🟡 | [bases-datos-f1](https://github.com/Danix29/bases-datos-f1) | F1 relational DB · 589K lap records · full audit triggers · RBAC roles (admin/manager/analyst/guest) · Python connector | 2025-26 | `SQL` `Oracle` `Python` |
-| 🟢 | [bda-postgresql-storage](https://github.com/Danix29/bda-postgresql-storage) | Physical storage analysis · B-Tree/Hash indexes · 30M rows · hash/range partitioning · VACUUM/ANALYZE · pg_statio monitoring | 2025-26 | `PostgreSQL` `Python` |
-| 🔵 | [ingenieria-software-uml](https://github.com/Danix29/ingenieria-software-uml) | Full UML · IEEE 830 SRS · JUnit · white & black box testing · cyclomatic complexity · class/sequence/deployment diagrams | 2025-26 | `Java` `UML` `JUnit` |
-| 🟣 | [ssoo-posix-threads](https://github.com/Danix29/ssoo-posix-threads) | Race simulation · POSIX pthreads · mutex · concurrent shared classification · independent rand_r() seeds per thread | 2025-26 | `C` `pthreads` `Linux` |
-| ⚪ | [estructuras-datos-editorial](https://github.com/Danix29/estructuras-datos-editorial) | Order management · dynamic linked-node FIFO queues & LIFO stacks · full heap memory management with malloc/free | 2024-25 | `C` |
-| ⚫ | [arquitectura-computadores-seq](https://github.com/Danix29/arquitectura-computadores-seq) | Sequential systems · JK flip-flops 74LS76 · 555 timer astable · BCD counter 0-9 · 74LS47 decoder · 7-segment display | 2024-25 | `Digital Logic` |
-
----
-
-## Interests
-
-### Technology & systems
-- Distributed and concurrent system architecture, design patterns (GoF, SOLID) and clean code principles
-- Database optimization, physical storage internals and query performance analysis
-- NP algorithms, computational complexity theory and graph problems
-- Systems security and role-based access control (RBAC) design
 
 
-### Travel, sport & exploration
-- Camper van road trips across Spain — zero tolls, off-the-beaten-path routes (Park4Night)
-- Certified swimming instructor and active swimmer
-- Astrophysics and astronomy — scientific curiosity since age 14
-- Cultural exploration of rural and lesser-known areas of Spain and beyond
 
----
 
-## GitHub Stats
+
+
+
+
+
+**Technical**
+| Area | Level |
+|------|-------|
+| Concurrent systems · pthreads · RMI | ████████████ 90% |
+| Java / OOP / multithreading | ███████████░ 88% |
+| SQL / Oracle / triggers / RBAC | ██████████░░ 84% |
+| Data structures (C, dynamic memory) | ██████████░░ 83% |
+| PostgreSQL · B-Tree/Hash · storage | ██████████░░ 80% |
+| C / POSIX · process management | ██████████░░ 82% |
+| Algorithms · DP · Backtracking · B&B | █████████░░░ 78% |
+| Python | █████████░░░ 75% |
+| UML · IEEE 830 · JUnit | █████████░░░ 76% |
+| Linux · Bash · shell scripting | ████████░░░░ 72% |
+
+	
+
+**Soft skills**
+| Competency | Category |
+|------------|----------|
+| Team coordination under pressure | `Leadership` |
+| Real-time autonomous decision making | `Leadership` |
+| Preventive risk assessment | `Analysis` |
+| Scientific research methodology | `Analysis` |
+| IEEE 830 & UML documentation | `Communication` |
+| Technical stakeholder reporting | `Communication` |
+| Emergency protocol execution | `Operations` |
+| Infrastructure monitoring & QC | `Operations` |
+| Customized technical planning | `Planning` |
+| Bilingual communication ES/EN | `Misc` |
+
+
+
+
+
+
+
+
+
+
+
+🛡️ Security, Lifesaving & Risk Management Specialist · May 2023 → Present · Base Aérea de Torrejón · Humanitas
+
+
+
+🏊 Swimming Instructor & Aquatic Activities Coordinator · Feb 2025 → Present · Humanitas Bilingual School Torrejón
+
+
+
+
+
+
+
+
+```
+  🟢  2024 → 2028   B.S. Computer Engineering — Universidad de Alcalá de Henares (GII)
+                    Advanced Programming · OS · Databases I & Advanced · Software Engineering
+                    Algorithms & Complexity · Computer Architecture · Data Structures · Networks
+
+  🟡  2022 → 2024   High School — Science & Technology — Humanitas Bilingual School Torrejón
+                    Full bilingual programme (ES/EN) · Scientific-technical track · International faculty
+
+  🔵  2018 → 2019   Astrophysics & Astrobiology — Cumlaude School (Pre-university specialization)
+                    Advanced scientific methodology · Analytical data observation · Critical thinking
+```
+
+
+
+
+
+
+
+
+🔴	batalla-de-hawkins
+Prog. Avanzada · 2024-25	Concurrent distributed simulation — Java RMI + multithreading, 16 classes, deadlock management and multi-layer synchronization between remote threads	  
+🟠	algoritmia-logistica-urbana
+Algoritmia · 2025-26	Knapsack 0/1 DP O(n·C) + TSP Backtracking with Branch & Bound pruning + Floyd-Warshall precalculation + greedy vs DP comparison	  
+🟡	bases-datos-f1
+BBDD · 2025-26	F1 relational DB · 589K lap records · full audit triggers · RBAC roles (admin/manager/analyst/guest) · Python connector with permission-aware queries	  
+🟢	bda-postgresql-storage
+BDA · 2025-26	Physical storage analysis · B-Tree/Hash indexes · 30M rows · hash/range partitioning · VACUUM/ANALYZE · I/O monitoring with pg_statio · theoretical vs real comparison	  
+🔵	ingenieria-software-uml
+IS · 2025-26	Full UML (class/sequence/use-case/deployment) · IEEE 830 SRS · JUnit · white & black box testing · cyclomatic complexity · garage chain management system	  
+🟣	ssoo-posix-threads
+SSOO · 2025-26	Race simulation · POSIX pthreads · mutex for shared classification · independent rand_r() seeds per thread · no race conditions · Makefile with -lpthread	  
+⚪	estructuras-datos-editorial
+ED · 2024-25	Order management system · dynamic linked-node FIFO queues & LIFO stacks · full heap memory management with malloc/free · zero static arrays	  
+⚫	arquitectura-computadores-seq
+ArqComp · 2024-25	Sequential systems · JK flip-flops 74LS76 · 555 timer astable (2Hz→0.5Hz) · BCD counter 0-9 · 74LS47 decoder · 7-segment display · timing diagrams	  
+
+
+
+
+
+
+
+
+
+
+
+🇪🇸 **Español — C2 · Native**
+
+`████████████ 100%`
+
+Lengua materna. Dominio completo oral y escrito.
+Redacción técnica de memorias, informes y documentación de proyectos.
+
+	
+
+🇬🇧 **English — B2 · Upper-intermediate**
+
+`████████░░░░ 67%`
+
+Bachillerato bilingüe · Humanitas. Comunicación profesional diaria en la Base Aérea de Torrejón con personal militar internacional.
+Actualmente preparando **C1 Advanced**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+**⚙️ Technology**
+- Distributed & concurrent system architecture
+- DB optimization · physical storage internals
+- NP algorithms · complexity theory · graphs
+- Clean Code · SOLID · GoF design patterns
+- Systems security & RBAC design
+
+	
+
+**🎲 D&D 5e — Dungeon Master**
+- Active homebrew: *Crónicas del Reino Amurallado* (6 players)
+- World design · lore · political factions
+- Puzzle creation & scaled encounters
+- Branched narrative & NPC arc design
+- Long-session management & improvisation
+
+	
+
+**🚐 Travel & Sport**
+- Camper van road trips · zero tolls · Park4Night
+- Swimming instructor & competitive swimmer
+- Astrophysics & astronomy since age 14
+- Rural & off-the-beaten-path Spain exploration
+- Road trip planning & budget optimization
+
+
+
+
+
+
+
+
+
 
 
 
@@ -184,18 +234,26 @@ Specialized training in advanced scientific methodology, analytical observation 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Danix29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danix29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-
-
-
-
-
-
 ![Streak](https://streak-stats.demolab.com?user=Danix29&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
 
 
----
+
+
+
+
+
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Danix29&color=1d9e75&style=flat-square&label=Profile+Views)
+
+*B.S. Computer Engineering · Universidad de Alcalá · Torrejón de Ardoz, Madrid*
+
+
+
+
 
 
 
