@@ -1,0 +1,13 @@
+# ⚡ Batalla de Hawkins
+
+> **Asignatura**: Programación Avanzada — UAH  
+> **Curso**: 2024-25  
+> **Stack**: Java · RMI · Multithreading · NetBeans
+
+## Descripción
+
+Simulación concurrente distribuida de una batalla inspirada en Stranger Things.
+El sistema enfrenta dos bandos en tiempo real sobre una arquitectura cliente-servidor
+distribuida mediante Java RMI.
+
+## Arquitectura
