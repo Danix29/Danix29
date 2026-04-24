@@ -22,7 +22,7 @@
 
 Estudiante de Ingeniería Informática en la UAH compaginando los estudios con más de **2 años de experiencia profesional activa** en entornos de alta responsabilidad.
 
-Trabajo como **Especialista en Seguridad, Salvamento y Gestión de Riesgos** en la Base Aérea de Torrejón y como **Instructor de Natación y Coordinador de Actividades Acuáticas** en Humanitas Bilingual School. Ambos roles exigen toma de decisiones bajo presión, coordinación de equipos, supervisión de protocolos de seguridad y comunicación técnica en entorno bilingüe (ES/EN).
+Trabajé como **Personal de Salvamento y Gestión de Riesgos** en la Base Aérea de Torrejón y actualmente como **Instructor de Natación y Coordinador de Actividades Acuáticas y Salvamento** en Humanitas Bilingual School. Ambos roles exigen toma de decisiones bajo presión, coordinación de equipos, supervisión de protocolos de seguridad y comunicación técnica en entorno bilingüe (ES/EN).
 
 En el plano técnico, mi formación se centra en **sistemas concurrentes y distribuidos** (Java RMI, POSIX threads), **bases de datos avanzadas** (PostgreSQL, Oracle, RBAC, indexación física) y **algoritmia** (Programación Dinámica, Backtracking, Branch & Bound). Aplico metodología analítica rigurosa — heredada en parte de mi formación en Astrofísica — a la resolución de problemas complejos de ingeniería.
 
@@ -135,7 +135,7 @@ En el plano técnico, mi formación se centra en **sistemas concurrentes y distr
 ## 💼 Professional experience
 
 <details>
-<summary><b>🛡️ Security, Lifesaving & Risk Management Specialist</b> · <code>May 2023 → Present</code> · Base Aérea de Torrejón · Humanitas</summary>
+<summary><b>🛡️ Security, Lifesaving & Risk Management </b> · <code>May 2023 → Present</code> · Base Aérea de Torrejón · Humanitas</summary>
 <br>
 
 ![](https://img.shields.io/badge/Emergency%20protocols-085041?style=flat-square)
@@ -144,10 +144,10 @@ En el plano técnico, mi formación se centra en **sistemas concurrentes y distr
 ![](https://img.shields.io/badge/Infrastructure%20QC-085041?style=flat-square)
 ![](https://img.shields.io/badge/Risk%20assessment-085041?style=flat-square)
 
-- Execution of advanced security protocols and emergency procedures in military and school facilities with high user volume, ensuring full regulatory compliance and personnel safety at all times
-- Coordination of security teams: restricted access control, user flow supervision, capacity monitoring and systematic incident documentation
+- Execution of security protocols and emergency procedures in military and school facilities with high user volume, ensuring full regulatory compliance and personnel safety at all times
+- Coordination of diverse teams: restricted access control, user flow supervision, capacity monitoring and systematic incident documentation
 - Continuous preventive evaluation of security conditions to identify, categorize and mitigate potential risks before they materialize, applying systematic analysis with high attention to detail
-- Technical monitoring of critical infrastructure parameters (water quality, emergency equipment, facility conditions) and preventive maintenance to maintain optimal health and safety standards
+- Technical monitoring of infrastructure parameters (water quality, emergency equipment, facility conditions) and preventive maintenance to maintain optimal health and safety standards
 - Fully bilingual environment (ES/EN) with direct daily interaction with international military staff, developing professional fluency in demanding technical and operational contexts
 
 </details>
@@ -261,13 +261,13 @@ informes y documentación de proyectos.
 </td>
 <td align="center" width="50%">
 
-🇬🇧 **English — B2 · Upper-intermediate**
+🇬🇧 **English — Mother Tongue**
 
 `████████░░░░` 67%
 
 Bachillerato bilingüe · Humanitas. Comunicación profesional
 diaria en Base Aérea de Torrejón con personal internacional.
-Preparando **C1 Advanced**.
+Preparando **C1/C2 Advanced**.
 
 </td>
 </tr></table>
