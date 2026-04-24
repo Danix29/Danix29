@@ -15,8 +15,7 @@
 - 🛡️ **Security & Lifesaving Specialist** — 2+ years in high-stakes environments (Base Aérea de Torrejón)
 - 🏊 **Aquatic Coordinator** — Humanitas Bilingual School Torrejón (Feb 2025–present)
 - 🔭 Background in **Astrophysics & Astrobiology** — Cumlaude School
-- 🎲 Dungeon Master — homebrew D&D 5e campaign
-- 🚐 Road tripper | Camper van | España
+- 🚐 Road tripper | Camper van | 
 
 ---
 
