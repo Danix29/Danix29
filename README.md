@@ -40,25 +40,23 @@ En el plano técnico, mi formación se centra en **sistemas concurrentes y distr
 | 🚐 | Road tripper · Camper van |
 
 </td></tr></table>
-
----
-## Resume
-
-Resume and Cover Letter uploaded here:
-
-<a href="https://github.com/Danix29/Resume"><b>Resume Landing Page</b></a>
-
 ---
 
-## Web Page
+## 🌐 Web and Documents
 
-Personal web page uploaded here:
+<div align="center">
 
-<a href="https://danix29.github.io/"><b>Web Page</b></a>
+[![Portfolio](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
+[![Repo](https://img.shields.io/badge/Web%20Source-085041?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29/Danix29.github.io)
+[![Resume](https://img.shields.io/badge/Resume%20and%20CV-5DCAA5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
 
-Or GitHub repository:
+</div>
 
-<a href="https://github.com/Danix29/Danix29.github.io"><b>GitHub Repository</b></a>
+| | Link | Description |
+|---|------|-------------|
+| 🌐 | [danix29.github.io](https://danix29.github.io) | Personal portfolio — bilingual EN/ES |
+| 💻 | [Danix29.github.io repo](https://github.com/Danix29/Danix29.github.io) | Web source code |
+| 📄 | [Resume repo](https://github.com/Danix29/Resume) | CV in English and Spanish + Cover Letter |
 
 ---
 ## 🛠️ Stack
