@@ -49,6 +49,14 @@ Resume and Cover Letter uploaded here:
 <a href="https://github.com/Danix29/Resume"><b>Resume Landing Page</b></a>
 
 ---
+
+## Web Page
+
+Personal web page uploaded here:
+
+<a href="https://danix29.github.io/"><b>Web Page</b></a>
+
+---
 ## 🛠️ Stack
 
 **Languages**
