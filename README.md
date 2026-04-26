@@ -56,6 +56,10 @@ Personal web page uploaded here:
 
 <a href="https://danix29.github.io/"><b>Web Page</b></a>
 
+Or GitHub repository:
+
+<a href="https://github.com/Danix29/Danix29.github.io"><b>Web Page</b></a>
+
 ---
 ## 🛠️ Stack
 
