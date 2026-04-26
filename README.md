@@ -6,10 +6,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=1D9E75¢er=true&width=700&lines=Concurrent+Systems+%7C+Databases+%7C+Algorithms;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Security+%26+Risk+Management+Specialist+%7C+2%2B+yrs;Road+Tripper+%7C+Camper+Van+%7C+Espa%C3%B1a)
 
 [![Website](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
-[![Email](https://img.shields.io/badge/dani.del.nogal%40gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
-[![GitHub](https://img.shields.io/badge/Danix29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Danix29)
-[![Location](https://img.shields.io/badge/Torrej%C3%B3n%20de%20Ardoz%2C%20Madrid-085041?style=flat-square&logo=googlemaps&logoColor=white)]()
-[![Phone](https://img.shields.io/badge/%2B34%20644%20543%20608-5DCAA5?style=flat-square&logo=whatsapp&logoColor=white)]()
+[![Email](https://img.shields.io/badge/dani.del.nogal%40gmail.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
+[![GitHub](https://img.shields.io/badge/Danix29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29)
+[![Location](https://img.shields.io/badge/Torrej%C3%B3n%20de%20Ardoz-085041?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Phone](https://img.shields.io/badge/%2B34%20644%20543%20608-5DCAA5?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 </div>
 
