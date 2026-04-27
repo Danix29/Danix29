@@ -96,7 +96,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | Estadistica | [estadistica](https://github.com/Danix29/estadistica) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Probability, statistical distributions, hypothesis testing, regression analysis and data interpretation |
 | Fisica | [fisica](https://github.com/Danix29/fisica) | ![Physics](https://img.shields.io/badge/Physics-e24b4a?style=flat-square) | Classical mechanics, electromagnetism, waves and optics. Lab practices and problem solving |
 | Fundamentos de la Empresa | [fundamentos-empresa](https://github.com/Danix29/fundamentos-empresa) | ![Business](https://img.shields.io/badge/Business-ba7517?style=flat-square) | Business fundamentals: company structure, management, accounting basics and business models for engineers |
-| Conoce la Biblioteca | [biblioteca-ingenierias](https://github.com/Danix29/biblioteca-ingenierias) | ![Docs](https://img.shields.io/badge/Research-5DCAA5?style=flat-square) | Academic research, scientific databases, citation management and technical documentation |
+| Investigacion | [biblioteca-ingenierias](https://github.com/Danix29/biblioteca-ingenierias) | ![Docs](https://img.shields.io/badge/Research-5DCAA5?style=flat-square) | Academic research, scientific databases, citation management and technical documentation |
 
 ---
 
