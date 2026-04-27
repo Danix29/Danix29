@@ -49,196 +49,61 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 ## 🎓 Degree — B.S. Computer Engineering · UAH · 2024-2028
 
-> All coursework is organised **one repository per subject**. Each repo contains the full set of lab practices, projects, documentation and READMEs for that subject.
+> All coursework organised **one repository per subject**. Each repo contains lab practices, projects and documentation for that subject.
 
 ---
 
 ### 📅 2025-26 — Active
 
-<table>
-<tr>
+#### ⚙️ Systems and Networks
 
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🧮-Algoritmia-1D9E75?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/algoritmia">algoritmia</a></b><br>
-<sub>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>Dynamic Programming, Backtracking, Branch and Bound. TSP, Knapsack 0/1, complexity analysis O(n).</sub>
-</td>
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
+| Sistemas Operativos | [sistemas-operativos](https://github.com/Danix29/sistemas-operativos) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | POSIX services: process management, pthreads, mutexes, semaphores, memory. Race simulation with mutex-protected shared classification |
+| Arquitectura de Redes I | [arquitectura-redes-1](https://github.com/Danix29/arquitectura-redes-1) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | TCP/IP fundamentals, subnetting, routing basics, switching, LAN design, Cisco IOS configuration |
+| Arquitectura de Redes II | [arquitectura-redes-2](https://github.com/Danix29/arquitectura-redes-2) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Advanced routing: OSPF, BGP, EIGRP, VLANs, Spanning Tree, network security and traffic engineering |
+| Fund. Tecnologia de Computadores | [fundamentos-tecnologia-computadores](https://github.com/Danix29/fundamentos-tecnologia-computadores) | ![Digital](https://img.shields.io/badge/Digital%20Logic-444441?style=flat-square) | Sequential and combinational systems: JK flip-flops, 555 timer, BCD counters, 7-segment displays, timing diagrams |
 
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🌐-Arq.%20Redes%20II-378add?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/arquitectura-redes-2">arquitectura-redes-2</a></b><br>
-<sub>![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>Advanced routing protocols: OSPF, BGP, EIGRP. VLANs, Spanning Tree, network security and traffic engineering.</sub>
-</td>
+#### 💻 Programming and Algorithms
 
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🗄️-BDA-316192?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/bases-datos-avanzadas">bases-datos-avanzadas</a></b><br>
-<sub>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>PostgreSQL internals: physical storage, B-Tree and Hash indexes, partitioning, VACUUM, I/O monitoring with pg_statio. 30M records.</sub>
-</td>
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
+| Programacion Avanzada | [programacion-avanzada](https://github.com/Danix29/programacion-avanzada) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Concurrent and distributed systems: Java RMI, multithreading, deadlock detection. Featured: Batalla de Hawkins (16 classes) |
+| Estructuras de Datos | [estructuras-datos](https://github.com/Danix29/estructuras-datos) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Dynamic data structures in C: linked lists, queues, stacks, trees, heap memory management with malloc/free |
+| Algoritmia y Complejidad | [algoritmia](https://github.com/Danix29/algoritmia) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Dynamic Programming, Backtracking, Branch and Bound. TSP, Knapsack 0/1, complexity analysis O(n) |
+| Ingenieria del Software | [ingenieria-software](https://github.com/Danix29/ingenieria-software) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | UML (class, sequence, use-case, deployment), IEEE 830 SRS, JUnit, white and black box testing, cyclomatic complexity |
 
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/📐-Ing.%20Software-888780?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/ingenieria-software">ingenieria-software</a></b><br>
-<sub>![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>UML (class, sequence, use-case, deployment), IEEE 830 SRS, JUnit, white and black box testing, cyclomatic complexity.</sub>
-</td>
+#### 🗄️ Databases and Mathematics
 
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/⚙️-Prog.%20Avanzada-ED8B00?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/programacion-avanzada">programacion-avanzada</a></b><br>
-<sub>![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>Concurrent and distributed systems: Java RMI, multithreading, deadlock detection, synchronization. Featured: Batalla de Hawkins (16 classes).</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🌐-Arq.%20Redes%20I-378add?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/arquitectura-redes-1">arquitectura-redes-1</a></b><br>
-<sub>![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>Network fundamentals: TCP/IP, subnetting, routing basics, switching, LAN design and Cisco IOS configuration.</sub>
-</td>
-
-</tr>
-<tr>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🗃️-Bases%20Datos-F80000?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/bases-datos">bases-datos</a></b><br>
-<sub>![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>Relational model, ER design, SQL, PL/SQL, triggers, RBAC user roles. Featured: F1 database with 589K records.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🔗-Estructuras%20Datos-00599C?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/estructuras-datos">estructuras-datos</a></b><br>
-<sub>![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>Dynamic data structures in C: linked lists, queues, stacks, trees, heap memory management with malloc/free.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/💻-Fund.%20Tecnologia-444441?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/fundamentos-tecnologia-computadores">fundamentos-tecnologia-computadores</a></b><br>
-<sub>![Digital](https://img.shields.io/badge/-Digital%20Logic-444441?style=flat-square) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>Sequential and combinational systems: JK flip-flops, 555 timer, BCD counters, 7-segment displays, timing diagrams.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/📊-Matematicas%20Avz-7f77dd?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/matematicas-avanzadas">matematicas-avanzadas</a></b><br>
-<sub>![Math](https://img.shields.io/badge/-Mathematics-7f77dd?style=flat-square) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>Advanced calculus, linear algebra, numerical methods and discrete mathematics applied to computer science problems.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🐧-Sistemas%20Op.-FCC624?style=flat-square&logoColor=black" /><br>
-<b><a href="https://github.com/Danix29/sistemas-operativos">sistemas-operativos</a></b><br>
-<sub>![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Status](https://img.shields.io/badge/Active-1D9E75?style=flat-square)</sub><br>
-<sub>POSIX services: process management, POSIX threads, mutexes, semaphores, memory management. Featured: simula_car race simulation.</sub>
-</td>
-
-<td align="center" width="16%">
-</td>
-
-</tr>
-</table>
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
+| Bases de Datos | [bases-datos](https://github.com/Danix29/bases-datos) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Relational model, ER design, SQL, PL/SQL, triggers, RBAC user roles. Featured: F1 database with 589K records |
+| Bases de Datos Avanzadas | [bases-datos-avanzadas](https://github.com/Danix29/bases-datos-avanzadas) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | PostgreSQL internals: physical storage, B-Tree and Hash indexes, partitioning, VACUUM, I/O monitoring with pg_statio. 30M records |
+| Matematicas Avanzadas | [matematicas-avanzadas](https://github.com/Danix29/matematicas-avanzadas) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Advanced calculus, linear algebra, numerical methods and discrete mathematics applied to computer science problems |
 
 ---
 
 ### 📅 2024-25 — Completed
 
-<table>
-<tr>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/📚-Biblioteca-5DCAA5?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/biblioteca-ingenierias">biblioteca-ingenierias</a></b><br>
-<sub>![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Introduction to academic research, scientific databases, citation management and technical documentation for engineers.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/⚛️-Fisica-e24b4a?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/fisica">fisica</a></b><br>
-<sub>![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Classical mechanics, electromagnetism, waves and optics applied to engineering. Lab practices and problem solving.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/📈-Estadistica-ef9f27?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/estadistica">estadistica</a></b><br>
-<sub>![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Probability theory, statistical distributions, hypothesis testing, regression analysis and data interpretation for engineering.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🖥️-EOC-00599C?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/estructura-organizacion-computadores">estructura-organizacion-computadores</a></b><br>
-<sub>![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Computer organization: CPU design, instruction sets, memory hierarchy, cache, buses and I/O. Assembly language basics.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🔢-Est.%20Discretas-7f77dd?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/estructuras-discretas">estructuras-discretas</a></b><br>
-<sub>![Math](https://img.shields.io/badge/-Mathematics-7f77dd?style=flat-square) ![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Logic, set theory, combinatorics, graph theory, trees, automata and formal languages. Foundation for algorithms and complexity.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🏢-Fund.%20Empresa-ba7517?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/fundamentos-empresa">fundamentos-empresa</a></b><br>
-<sub>![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Business fundamentals: company structure, management, accounting basics, economics and business models for engineers.</sub>
-</td>
-
-</tr>
-<tr>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/🧩-Fund.%20Prog.-ED8B00?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/fundamentos-programacion">fundamentos-programacion</a></b><br>
-<sub>![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Introduction to programming: variables, control flow, functions, recursion, basic OOP. First contact with Java.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/💻-Fund.%20Tec.%20Comp.-444441?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/fund-tecnologia-computadores-1">fund-tecnologia-computadores-1</a></b><br>
-<sub>![Digital](https://img.shields.io/badge/-Digital%20Logic-444441?style=flat-square) ![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Boolean algebra, combinational circuits, logic gates, Karnaugh maps, multiplexers and decoders.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/∑-Fund.%20Matematicos-7f77dd?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/fundamentos-matematicos">fundamentos-matematicos</a></b><br>
-<sub>![Math](https://img.shields.io/badge/-Mathematics-7f77dd?style=flat-square) ![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Calculus, linear algebra, matrices, eigenvalues and mathematical reasoning applied to engineering problems.</sub>
-</td>
-
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/☕-Programacion-ED8B00?style=flat-square" /><br>
-<b><a href="https://github.com/Danix29/programacion">programacion</a></b><br>
-<sub>![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Status](https://img.shields.io/badge/Completed-888780?style=flat-square)</sub><br>
-<sub>Object-oriented programming: classes, inheritance, polymorphism, interfaces, collections, exceptions and file I/O in Java.</sub>
-</td>
-
-<td align="center" width="16%">
-</td>
-
-<td align="center" width="16%">
-</td>
-
-</tr>
-</table>
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
+| Programacion | [programacion](https://github.com/Danix29/programacion) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | OOP: classes, inheritance, polymorphism, interfaces, collections, exceptions and file I/O in Java |
+| Fundamentos de Programacion | [fundamentos-programacion](https://github.com/Danix29/fundamentos-programacion) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Intro to programming: variables, control flow, functions, recursion, basic OOP. First contact with Java |
+| Estructura y Org. de Computadores | [estructura-organizacion-computadores](https://github.com/Danix29/estructura-organizacion-computadores) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | CPU design, instruction sets, memory hierarchy, cache, buses and I/O. Assembly language basics |
+| Fund. Tecnologia de Computadores | [fund-tecnologia-computadores-1](https://github.com/Danix29/fund-tecnologia-computadores-1) | ![Digital](https://img.shields.io/badge/Digital%20Logic-444441?style=flat-square) | Boolean algebra, combinational circuits, logic gates, Karnaugh maps, multiplexers and decoders |
+| Estructuras Discretas | [estructuras-discretas](https://github.com/Danix29/estructuras-discretas) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Logic, set theory, combinatorics, graph theory, trees, automata and formal languages |
+| Fundamentos Matematicos | [fundamentos-matematicos](https://github.com/Danix29/fundamentos-matematicos) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Calculus, linear algebra, matrices, eigenvalues and mathematical reasoning applied to engineering |
+| Estadistica | [estadistica](https://github.com/Danix29/estadistica) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Probability, statistical distributions, hypothesis testing, regression analysis and data interpretation |
+| Fisica | [fisica](https://github.com/Danix29/fisica) | ![Physics](https://img.shields.io/badge/Physics-e24b4a?style=flat-square) | Classical mechanics, electromagnetism, waves and optics. Lab practices and problem solving |
+| Fundamentos de la Empresa | [fundamentos-empresa](https://github.com/Danix29/fundamentos-empresa) | ![Business](https://img.shields.io/badge/Business-ba7517?style=flat-square) | Business fundamentals: company structure, management, accounting basics and business models for engineers |
+| Conoce la Biblioteca | [biblioteca-ingenierias](https://github.com/Danix29/biblioteca-ingenierias) | ![Docs](https://img.shields.io/badge/Research-5DCAA5?style=flat-square) | Academic research, scientific databases, citation management and technical documentation |
 
 ---
 
 ## 💼 Professional experience
 
 <details>
-<summary><b>🛡️ Security, Lifesaving and Risk Management Specialist</b> · <code>May 2023 to Present</code> · Base Aerea de Torrejon · Humanitas</summary>
+<summary><b>🛡️ Security, Lifesaving and Risk Management Specialist</b> · <code>May 2023 to Present</code> · Base Aerea de Torrejon · Humanitas Bilingual School</summary>
 <br>
 
 ![](https://img.shields.io/badge/Emergency%20protocols-085041?style=flat-square)
@@ -246,12 +111,14 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 ![](https://img.shields.io/badge/Preventive%20analysis-085041?style=flat-square)
 ![](https://img.shields.io/badge/Infrastructure%20QC-085041?style=flat-square)
 ![](https://img.shields.io/badge/Risk%20assessment-085041?style=flat-square)
+![](https://img.shields.io/badge/Incident%20reporting-085041?style=flat-square)
 
-- Execution of advanced security protocols and emergency procedures in military and school facilities ensuring full regulatory compliance and personnel safety at all times
-- Team coordination: restricted access control, user flow supervision, capacity monitoring and systematic incident documentation
-- Continuous preventive evaluation of security conditions to identify and mitigate potential risks with high attention to detail
-- Technical monitoring of critical infrastructure parameters and preventive maintenance to maintain optimal health and safety standards
-- Fully bilingual environment (ES/EN) with direct daily interaction with international military staff
+- Execution of advanced security and emergency protocols across military and public-access facilities with high daily user volumes, ensuring zero-incident compliance with national safety regulations
+- Coordination and supervision of multi-person security teams: shift planning, access control procedures, user flow management and real-time capacity monitoring
+- Systematic preventive risk assessment using structured evaluation procedures, identifying and neutralising potential hazards before escalation
+- Technical monitoring and logging of critical infrastructure parameters (water quality, safety equipment, facility conditions) with documented preventive maintenance cycles
+- Drafted and maintained operational incident reports, access logs and daily activity records in accordance with regulatory standards
+- Active operation in a fully bilingual (ES/EN) environment, communicating directly with international military staff at Base Aerea de Torrejon on a daily basis
 
 </details>
 
@@ -263,12 +130,15 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 ![](https://img.shields.io/badge/Supervision-085041?style=flat-square)
 ![](https://img.shields.io/badge/Safety%20compliance-085041?style=flat-square)
 ![](https://img.shields.io/badge/Stakeholder%20reporting-085041?style=flat-square)
+![](https://img.shields.io/badge/Performance%20tracking-085041?style=flat-square)
 ![](https://img.shields.io/badge/Team%20coordination-085041?style=flat-square)
 
-- Design and implementation of fully personalized swimming technical plans with measurable performance objectives and phased progression
-- Continuous session supervision guaranteeing physical integrity of participants and aquatic safety protocol compliance
-- Technical communication with school management and families: periodic progress reports and professional incident reporting
-- Coordination of heterogeneous groups adapting methodology and resources to each group's specific needs
+- Designed and implemented individualised technical training programmes for students across all skill levels, defining measurable objectives, phased progression milestones and periodic evaluation criteria
+- Managed end-to-end session lifecycle: planning, execution, safety supervision and post-session reporting to school management and families
+- Coordinated activity scheduling across multiple simultaneous groups (children, adults, competitive) optimising pool lane allocation and instructor resources
+- Maintained full compliance with aquatic safety regulations, performing daily facility inspection and equipment verification before sessions
+- Delivered progress reports and incident documentation to school management, demonstrating clear communication and accountability at institutional level
+- Contributed to the design of the annual aquatic activities programme, aligning it with school curriculum goals and student development objectives
 
 </details>
 
@@ -283,8 +153,8 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 `████████████` 100%
 
-Lengua materna. Full oral and written proficiency.
-Technical documentation, reports and project memory writing.
+Full oral and written proficiency.
+Technical documentation and project reports.
 
 </td>
 <td align="center" width="50%">
@@ -293,7 +163,9 @@ Technical documentation, reports and project memory writing.
 
 `████████░░░░` 67%
 
-Bilingual school background. Active professional use at Base Aerea de Torrejon with international military staff. Pursuing **C1 Advanced**.
+Bilingual school background.
+Daily professional use at Base Aerea de Torrejon.
+Pursuing **C1 Advanced**.
 
 </td>
 </tr></table>
