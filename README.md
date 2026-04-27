@@ -158,9 +158,9 @@ Technical documentation and project reports.
 </td>
 <td align="center" width="50%">
 
-🇬🇧 **English — B2 · Upper-intermediate**
+🇬🇧 **English — Mother Tongue · Upper-intermediate**
 
-`████████░░░░` 67%
+`█████████░░░` 77%
 
 Bilingual school background.
 Daily professional use at Base Aerea de Torrejon.
