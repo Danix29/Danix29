@@ -1,12 +1,273 @@
 <!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=220&section=header&text=Daniel%20Del%20Nogal%20Buchanan&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=B.S.%20Computer%20Engineering%20%40%20UAH&descAlignY=58&descColor=9FE1CB&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Daniel%20Del%20Nogal%20Buchanan&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=B.S.%20Computer%20Engineering%20%40%20UAH%20%C2%B7%20Torrejon%20de%20Ardoz&descAlignY=58&descColor=9FE1CB" width="100%"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=1D9E75&center=true&width=700&lines=Concurrent+Systems+%7C+Databases+%7C+Algorithms;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Security+and+Risk+Management+%7C+2%2B+yrs;Road+Tripper+%7C+Camper+Van+%7C+Espana)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=1D9E75¢er=true&width=700&lines=Concurrent+Systems+%7C+Databases+%7C+Algorithms;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Security+%26+Risk+Management+Specialist+%7C+2%2B+yrs;Road+Tripper+%7C+Camper+Van+%7C+Espa%C3%B1a)
-
+[![Email](https://img.shields.io/badge/dani.del.nogal%40gmail.com-085041?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
+[![Phone](https://img.shields.io/badge/%2B34%20644%20543%20608-1D9E75?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Torrej%C3%B3n%20de%20Ardoz%2C%20Madrid-5DCAA5?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/Danix29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29)
 [![Website](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
-[![Email](https://img.shields.io/badge/dani.del.nogal%40gmail.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
+
+</div>
+
+---
+
+## Who am I
+
+<table><tr><td>
+
+Computer Engineering student at UAH combining academic studies with **2+ years of active professional experience** in high-responsibility environments. Working simultaneously as a **Security, Lifesaving and Risk Management Specialist** at Base Aerea de Torrejon and as a **Swimming Instructor and Aquatic Coordinator** at Humanitas Bilingual School.
+
+Technically focused on **concurrent and distributed systems** (Java RMI, POSIX threads), **advanced databases** (PostgreSQL, Oracle, RBAC) and **algorithms** (Dynamic Programming, Backtracking, Branch and Bound).
+
+</td><td width="30%" valign="top" align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1D9E75?style=flat-square&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+<br><br>
+
+| | |
+|:---:|:---|
+| Espanol | C2 — Native |
+| English | B2 to C1 |
+| Driver's | License Type B |
+
+</td></tr></table>
+
+---
+
+## Technical skills
+
+<table>
+<tr><td width="50%" valign="top">
+
+| Area | Level |
+|------|-------|
+| Concurrent systems · pthreads · RMI | `████████████` 90% |
+| Java / OOP / multithreading | `███████████░` 88% |
+| SQL / Oracle / triggers / RBAC | `██████████░░` 84% |
+| Data structures (C, dynamic memory) | `██████████░░` 83% |
+| C / POSIX · process management | `██████████░░` 82% |
+| PostgreSQL · B-Tree/Hash · storage | `██████████░░` 80% |
+
+</td><td width="50%" valign="top">
+
+| Area | Level |
+|------|-------|
+| Algorithms · DP · Backtracking · B&B | `█████████░░░` 78% |
+| UML · IEEE 830 · JUnit | `█████████░░░` 76% |
+| Python | `█████████░░░` 75% |
+| Linux · Bash · shell scripting | `████████░░░░` 72% |
+| HTML / CSS | `████████░░░░` 65% |
+| Digital logic · circuit design | `████████░░░░` 68% |
+
+</td></tr></table>
+
+---
+
+## Soft skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Leadership and ops**
+- Team coordination in critical environments
+- Real-time decision making under pressure
+- Emergency protocol execution
+- Supervision and safety compliance
+- Access control and capacity management
+
+</td>
+<td width="33%" valign="top">
+
+**Analysis and planning**
+- Preventive risk assessment
+- Scientific research methodology
+- Systematic data observation
+- Customized technical planning
+- Infrastructure QC monitoring
+
+</td>
+<td width="33%" valign="top">
+
+**Communication**
+- IEEE 830 and UML documentation
+- Technical stakeholder reporting
+- Project defense (academic)
+- Bilingual communication ES/EN
+- Incident reporting and logging
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional experience
+
+<details>
+<summary><b>Security, Lifesaving and Risk Management Specialist</b> · <code>May 2023 to Present</code> · Base Aerea de Torrejon · Humanitas</summary>
+<br>
+
+![](https://img.shields.io/badge/Emergency%20protocols-085041?style=flat-square)
+![](https://img.shields.io/badge/Operational%20logistics-085041?style=flat-square)
+![](https://img.shields.io/badge/Preventive%20analysis-085041?style=flat-square)
+![](https://img.shields.io/badge/Infrastructure%20QC-085041?style=flat-square)
+![](https://img.shields.io/badge/Risk%20assessment-085041?style=flat-square)
+
+- Execution of advanced security protocols and emergency procedures in military and school facilities ensuring full regulatory compliance and personnel safety at all times
+- Team coordination for comprehensive facility management: restricted access control, user flow supervision, capacity monitoring and systematic incident documentation
+- Continuous preventive evaluation of security conditions to identify and mitigate potential risks with high attention to detail
+- Technical monitoring of critical infrastructure parameters and preventive maintenance to maintain optimal health and safety standards
+- Fully bilingual environment (ES/EN) with direct daily interaction with international military staff at Base Aerea de Torrejon
+
+</details>
+
+<details>
+<summary><b>Swimming Instructor and Aquatic Activities Coordinator</b> · <code>Feb 2025 to Present</code> · Humanitas Bilingual School Torrejon</summary>
+<br>
+
+![](https://img.shields.io/badge/Strategic%20planning-085041?style=flat-square)
+![](https://img.shields.io/badge/Supervision-085041?style=flat-square)
+![](https://img.shields.io/badge/Safety%20compliance-085041?style=flat-square)
+![](https://img.shields.io/badge/Stakeholder%20reporting-085041?style=flat-square)
+![](https://img.shields.io/badge/Team%20coordination-085041?style=flat-square)
+
+- Design and implementation of fully personalized swimming technical plans with measurable performance objectives and phased progression
+- Continuous session supervision guaranteeing physical integrity of participants and aquatic safety protocol compliance
+- Technical communication with school management and families: periodic progress reports and professional incident reporting
+- Coordination of heterogeneous groups (children, adults, competitive) adapting methodology to each group's specific needs
+
+</details>
+
+---
+
+## Education
+
+```
+  2024 to 2028   B.S. Computer Engineering — Universidad de Alcala de Henares (GII)
+                 Advanced Programming · OS · Databases I and Advanced · Software Engineering
+                 Algorithms and Complexity · Computer Architecture · Data Structures · Networks
+
+  2022 to 2024   High School — Science and Technology — Humanitas Bilingual School Torrejon
+                 Full bilingual programme (ES/EN) · Scientific-technical track
+
+  2018 to 2019   Astrophysics and Astrobiology — Cumlaude School (Pre-university specialization)
+                 Scientific methodology · Analytical observation · Critical thinking
+```
+
+---
+
+## Academic projects by subject
+
+### Systems and Programming
+
+| Repository | Subject | Description | Stack |
+|------------|---------|-------------|-------|
+| [batalla-de-hawkins](https://github.com/Danix29/batalla-de-hawkins) | Programacion Avanzada | Concurrent distributed simulation — Java RMI + multithreading, 16 classes, deadlock management | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![RMI](https://img.shields.io/badge/RMI-ED8B00?style=flat-square) |
+| [ssoo-posix-threads](https://github.com/Danix29/ssoo-posix-threads) | Sistemas Operativos | Race simulation · POSIX pthreads · mutex · concurrent shared classification | ![C](https://img.shields.io/badge/C-00599C?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logoColor=black) |
+| [estructuras-datos-editorial](https://github.com/Danix29/estructuras-datos-editorial) | Estructuras de Datos | Order management · dynamic linked-node FIFO queues and LIFO stacks · heap memory | ![C](https://img.shields.io/badge/C-00599C?style=flat-square) |
+
+### Databases
+
+| Repository | Subject | Description | Stack |
+|------------|---------|-------------|-------|
+| [bases-datos-f1](https://github.com/Danix29/bases-datos-f1) | Bases de Datos | F1 relational DB · 589K records · audit triggers · RBAC roles · Python connector | ![SQL](https://img.shields.io/badge/SQL-1D9E75?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square) |
+| [bda-postgresql-storage](https://github.com/Danix29/bda-postgresql-storage) | Bases de Datos Avanzadas | Physical storage · B-Tree/Hash indexes · 30M rows · partitioning · pg_statio | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square) |
+
+### Software Engineering and Algorithms
+
+| Repository | Subject | Description | Stack |
+|------------|---------|-------------|-------|
+| [ingenieria-software-uml](https://github.com/Danix29/ingenieria-software-uml) | Ingenieria del Software | IEEE 830 · full UML · JUnit · white and black box testing · cyclomatic complexity | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![UML](https://img.shields.io/badge/UML-888780?style=flat-square) |
+| [algoritmia-logistica-urbana](https://github.com/Danix29/algoritmia-logistica-urbana) | Algoritmia y Complejidad | Knapsack 0/1 DP + TSP Backtracking with Branch and Bound + Floyd-Warshall | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) |
+
+### Computer Architecture and Technology
+
+| Repository | Subject | Description | Stack |
+|------------|---------|-------------|-------|
+| [arquitectura-computadores-seq](https://github.com/Danix29/arquitectura-computadores-seq) | Tecnologia de Computadores | JK flip-flops · 555 timer astable · BCD counter 0-9 · 74LS47 decoder · 7-segment display | ![Digital](https://img.shields.io/badge/Digital%20Logic-444441?style=flat-square) |
+
+---
+
+## Languages
+
+<table align="center"><tr>
+<td align="center" width="50%">
+
+Espanol — C2 · Native
+
+`████████████` 100%
+
+Lengua materna. Full oral and written proficiency.
+
+</td>
+<td align="center" width="50%">
+
+English — B2 · Upper-intermediate
+
+`████████░░░░` 67%
+
+Bilingual school · Base Aerea de Torrejon.
+Pursuing **C1 Advanced**.
+
+</td>
+</tr></table>
+
+---
+
+## Web and Documents
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
+[![Repo](https://img.shields.io/badge/Web%20Source-085041?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29/Danix29.github.io)
+[![Resume](https://img.shields.io/badge/Resume%20and%20CV-5DCAA5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
+
+</div>
+
+| | Link | Description |
+|---|------|-------------|
+| Portfolio | [danix29.github.io](https://danix29.github.io) | Personal portfolio — bilingual EN/ES |
+| Web source | [Danix29.github.io repo](https://github.com/Danix29/Danix29.github.io) | Source code of the portfolio |
+| Resume | [Resume repo](https://github.com/Danix29/Resume) | CV in English and Spanish + Cover Letter |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Danix29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danix29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Streak](https://streak-stats.demolab.com?user=Danix29&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Danix29&color=1d9e75&style=flat-square&label=Profile+Views)
+
+*B.S. Computer Engineering · Universidad de Alcala · Torrejon de Ardoz, Madrid*
+
+</div>
 [![GitHub](https://img.shields.io/badge/Danix29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29)
 [![Location](https://img.shields.io/badge/Torrej%C3%B3n%20de%20Ardoz-085041?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Phone](https://img.shields.io/badge/%2B34%20644%20543%20608-5DCAA5?style=for-the-badge&logo=whatsapp&logoColor=white)]()
