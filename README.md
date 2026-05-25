@@ -53,7 +53,26 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 ---
 
-### 📅 2025-26 — Active
+### 📅 2026-2027 — Active
+
+#### 1er Cuatrimestre
+
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
+| Ingenieria del Software Avanzada | [ingenieria-software-avanzada](https://github.com/Danix29/ingenieria-software-avanzada) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Advanced software engineering: design patterns, refactoring, clean architecture, SOLID principles |
+| Inteligencia Artificial | [inteligencia-artificial](https://github.com/Danix29/inteligencia-artificial) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Search algorithms, knowledge representation, machine learning fundamentals, neural networks |
+| Sistemas Operativos Avanzados | [sistemas-operativos-avanzados](https://github.com/Danix29/sistemas-operativos-avanzados) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Advanced OS concepts: scheduling, virtual memory, filesystems, kernel modules, security |
+
+#### 2º Cuatrimestre
+
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
+| Gestion de Proyectos | [gestion-proyectos](https://github.com/Danix29/gestion-proyectos) | ![Docs](https://img.shields.io/badge/PM-5DCAA5?style=flat-square) | Project planning, agile methodologies, risk management, cost estimation, team coordination |
+| Sistemas Empresariales | [sistemas-empresariales](https://github.com/Danix29/sistemas-empresariales) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Enterprise systems: ERP, CRM, SOA, web services, integration patterns and business logic |
+
+---
+
+### 📅 2024-2026 — Completed
 
 #### ⚙️ Systems and Networks
 
@@ -72,6 +91,8 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | Estructuras de Datos | [estructuras-datos](https://github.com/Danix29/estructuras-datos) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Dynamic data structures in C: linked lists, queues, stacks, trees, heap memory management with malloc/free |
 | Algoritmia y Complejidad | [algoritmia](https://github.com/Danix29/algoritmia) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Dynamic Programming, Backtracking, Branch and Bound. TSP, Knapsack 0/1, complexity analysis O(n) |
 | Ingenieria del Software | [ingenieria-software](https://github.com/Danix29/ingenieria-software) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | UML (class, sequence, use-case, deployment), IEEE 830 SRS, JUnit, white and black box testing, cyclomatic complexity |
+| Programacion | [programacion](https://github.com/Danix29/programacion) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | OOP: classes, inheritance, polymorphism, interfaces, collections, exceptions and file I/O in Java |
+| Fundamentos de Programacion | [fundamentos-programacion](https://github.com/Danix29/fundamentos-programacion) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Intro to programming: variables, control flow, functions, recursion, basic OOP. First contact with Java |
 
 #### 🗄️ Databases and Mathematics
 
@@ -80,18 +101,14 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | Bases de Datos | [bases-datos](https://github.com/Danix29/bases-datos) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Relational model, ER design, SQL, PL/SQL, triggers, RBAC user roles. Featured: F1 database with 589K records |
 | Bases de Datos Avanzadas | [bases-datos-avanzadas](https://github.com/Danix29/bases-datos-avanzadas) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | PostgreSQL internals: physical storage, B-Tree and Hash indexes, partitioning, VACUUM, I/O monitoring with pg_statio. 30M records |
 | Matematicas Avanzadas | [matematicas-avanzadas](https://github.com/Danix29/matematicas-avanzadas) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Advanced calculus, linear algebra, numerical methods and discrete mathematics applied to computer science problems |
-
----
-
-### 📅 2024-2026 — Completed
-
-| Subject | Repository | Stack | Description |
-|---------|-----------|-------|-------------|
-| Programacion | [programacion](https://github.com/Danix29/programacion) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | OOP: classes, inheritance, polymorphism, interfaces, collections, exceptions and file I/O in Java |
-| Fundamentos de Programacion | [fundamentos-programacion](https://github.com/Danix29/fundamentos-programacion) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Intro to programming: variables, control flow, functions, recursion, basic OOP. First contact with Java |
 | Estructuras Discretas | [estructuras-discretas](https://github.com/Danix29/estructuras-discretas) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Logic, set theory, combinatorics, graph theory, trees, automata and formal languages |
 | Fundamentos Matematicos | [fundamentos-matematicos](https://github.com/Danix29/fundamentos-matematicos) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Calculus, linear algebra, matrices, eigenvalues and mathematical reasoning applied to engineering |
 | Estadistica | [estadistica](https://github.com/Danix29/estadistica) | ![Math](https://img.shields.io/badge/Mathematics-7f77dd?style=flat-square) | Probability, statistical distributions, hypothesis testing, regression analysis and data interpretation |
+
+#### 🏛️ General
+
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
 | Fisica | [fisica](https://github.com/Danix29/fisica) | ![Physics](https://img.shields.io/badge/Physics-e24b4a?style=flat-square) | Classical mechanics, electromagnetism, waves and optics. Lab practices and problem solving |
 | Fundamentos de la Empresa | [fundamentos-empresa](https://github.com/Danix29/fundamentos-empresa) | ![Business](https://img.shields.io/badge/Business-ba7517?style=flat-square) | Business fundamentals: company structure, management, accounting basics and business models for engineers |
 | Investigacion | [biblioteca-ingenierias](https://github.com/Danix29/biblioteca-ingenierias) | ![Docs](https://img.shields.io/badge/Research-5DCAA5?style=flat-square) | Academic research, scientific databases, citation management and technical documentation |
