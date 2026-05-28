@@ -234,6 +234,26 @@ Actively working towards **C1 Advanced**.
 
 ---
 
+## 💬 Ask Me About
+
+**Java concurrency & distributed systems** · **PostgreSQL physical storage & indexing** · **Dynamic Programming & Branch and Bound** · **Security protocols in critical environments**
+
+---
+
+## 📚 Reading List
+
+Books I've read or am working through — beyond the coursework.
+
+| Book | Author | Why it matters |
+|---|---|---|
+| *Java Concurrency in Practice* | Brian Goetz | The definitive reference for threads, locks and the Java memory model — directly behind everything in Programación Avanzada |
+| *Database Internals* | Alex Petrov | Explains the B-Tree and LSM-tree internals that I benchmarked hands-on in bases-datos-avanzadas |
+| *Operating Systems: Three Easy Pieces* | Arpaci-Dusseau | Free online. Concurrency, virtual memory and file systems explained better than most paid textbooks |
+| *The Algorithm Design Manual* | Steven Skiena | War stories + algorithm catalogue. More honest about real-world tradeoffs than purely theoretical texts |
+| *Computer Networks: A Top-Down Approach* | Kurose & Ross | Protocol design from application layer down — the backbone behind both networking subjects |
+
+---
+
 ## 🛠️ Personal Projects
 
 Projects built outside of coursework — some finished, some still in progress.

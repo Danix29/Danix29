@@ -234,6 +234,26 @@ Trabajando activamente hacia el **C1 Advanced**.
 
 ---
 
+## 💬 Pregúntame sobre
+
+**Concurrencia en Java y sistemas distribuidos** · **Almacenamiento físico e indexación en PostgreSQL** · **Programación Dinámica y Branch and Bound** · **Protocolos de seguridad en entornos críticos**
+
+---
+
+## 📚 Lista de Lectura
+
+Libros que he leído o estoy trabajando — más allá del plan de estudios.
+
+| Libro | Autor | Por qué importa |
+|---|---|---|
+| *Java Concurrency in Practice* | Brian Goetz | La referencia definitiva para threads, locks y el modelo de memoria de Java — directamente aplicado en Programación Avanzada |
+| *Database Internals* | Alex Petrov | Explica los internos del B-Tree y LSM-tree que analicé en profundidad en bases-datos-avanzadas |
+| *Operating Systems: Three Easy Pieces* | Arpaci-Dusseau | Gratis online. Concurrencia, memoria virtual y sistemas de ficheros explicados mejor que muchos libros de pago |
+| *The Algorithm Design Manual* | Steven Skiena | Casos reales + catálogo de algoritmos. Más honesto sobre los trade-offs reales que los textos puramente teóricos |
+| *Computer Networks: A Top-Down Approach* | Kurose & Ross | Diseño de protocolos de capa de aplicación hacia abajo — la base de las dos asignaturas de redes |
+
+---
+
 ## 🛠️ Proyectos Personales
 
 Proyectos fuera del plan de estudios — algunos terminados, otros aún en marcha.
