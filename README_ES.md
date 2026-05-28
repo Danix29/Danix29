@@ -211,6 +211,19 @@ Trabajando activamente hacia el **C1 Advanced**.
 
 ---
 
+## 🛠️ Proyectos Personales
+
+Proyectos fuera del plan de estudios — algunos terminados, otros aún en marcha.
+
+| Proyecto | Descripción | Stack | Estado |
+|---------|-------------|-------|--------|
+| [english-project](https://github.com/Danix29/english-project) | Plataforma web de inglés — web estática creada antes de la carrera para ayudar a unas compañeras del instituto a alojar su proyecto de inglés de bachillerato. Hero, tarjetas de ejercicios, sección de equipo, animaciones de scroll. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ✅ En línea |
+| algo-visualizer | Trazador visual paso a paso de algoritmos de ordenación y grafos. Previsto: bubble / merge / quicksort, BFS/DFS, todo renderizado en `<canvas>` con control fotograma a fotograma. | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas](https://img.shields.io/badge/Canvas_API-1D9E75?style=flat-square) | 🚧 En progreso |
+| c-utils | Pequeña colección de programas utilitarios en C — estadísticas de ficheros, herramientas de cadenas, estructuras de datos básicas desde cero. Campo de práctica para trabajo a nivel de sistemas. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 🚧 En progreso |
+| db-bench | Scripts de benchmarking PostgreSQL y cuadernos de análisis: comparativa B-Tree vs Hash, particionado hash/rango, análisis EXPLAIN ANALYZE, perfilado E/S con pg_statio. | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🚧 En progreso |
+
+---
+
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -219,6 +232,40 @@ Trabajando activamente hacia el **C1 Advanced**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danix29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![Streak](https://streak-stats.demolab.com?user=Danix29&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Danix29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/Danix29)
+
+</div>
+
+---
+
+## 📊 Actividad
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danix29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1D9E75&line=1D9E75&point=5DCAA5&area=true&area_color=1D9E75)](https://github.com/Danix29)
+
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
+  <img alt="Animación serpiente de contribuciones GitHub" src="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
+</picture>
 
 </div>
 
