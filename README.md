@@ -211,6 +211,19 @@ Actively working towards **C1 Advanced**.
 
 ---
 
+## 🛠️ Personal Projects
+
+Projects built outside of coursework — some finished, some still in progress.
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [proyecto-personal](https://github.com/Danix29/proyecto-personal) | SBI English Learning Platform — static web built before university to help classmates at Humanitas host their high-school English project. Hero, exercise cards, team section, scroll animations. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ✅ Live |
+| algo-visualizer | Step-by-step visual tracer for sorting and graph algorithms. Planned: bubble / merge / quicksort, BFS/DFS, all rendered on `<canvas>` with frame-by-frame control. | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas](https://img.shields.io/badge/Canvas_API-1D9E75?style=flat-square) | 🚧 In progress |
+| c-utils | Small collection of utility programs in C — file statistics, string manipulation tools, basic data structures from scratch. Practice ground for systems-level work outside of coursework. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 🚧 In progress |
+| db-bench | PostgreSQL benchmarking scripts and analysis notebooks from personal experimentation: B-Tree vs Hash index comparison, hash/range partitioning, EXPLAIN ANALYZE output, pg_statio I/O profiling. | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🚧 In progress |
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
