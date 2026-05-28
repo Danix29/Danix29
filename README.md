@@ -237,6 +237,40 @@ Projects built outside of coursework — some finished, some still in progress.
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Danix29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/Danix29)
+
+</div>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danix29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1D9E75&line=1D9E75&point=5DCAA5&area=true&area_color=1D9E75)](https://github.com/Danix29)
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=footer" width="100%"/>
 
 <div align="center">
