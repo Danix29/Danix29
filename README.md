@@ -16,6 +16,7 @@
 [![Location](https://img.shields.io/badge/Torrejón%20de%20Ardoz-5DCAA5?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Website](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
 [![Resume](https://img.shields.io/badge/Resume%20and%20CV-085041?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
+[![Open to Internships](https://img.shields.io/badge/🎯_Open_to_Internships-Summer_2027-1D9E75?style=for-the-badge)]()
 
 </div>
 
@@ -51,6 +52,28 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | 🎓 | UAH GII 2024–2028 |
 
 </td></tr></table>
+
+---
+
+## 🎯 Currently
+
+| | |
+|---|---|
+| 📚 **Studying** | Advanced Software Engineering · Artificial Intelligence · Advanced Operating Systems |
+| 🔨 **Building** | `algo-visualizer` — step-by-step sorting & graph algorithm tracer on canvas |
+| 🎯 **Goal** | Close 3rd year strong · land a Summer 2027 internship in systems, backend or data |
+
+---
+
+## 📅 Learning Timeline
+
+| Year | What happened |
+|------|--------------|
+| 2022 | Bachillerato de Ciencias — Physics & Maths · First HTML/CSS → built the SBI English project for classmates |
+| 2023 | Security Specialist @ Base Aérea de Torrejón · Discovered Java and serious programming |
+| 2024 | Computer Engineering @ UAH · Java · C · Data Structures · OS · Networks · Oracle SQL |
+| 2025 | Java RMI · POSIX threads · Algorithms (DP, B&B) · Oracle RBAC · Swimming Instructor @ Humanitas |
+| 2026 | PostgreSQL internals · Advanced Databases · Python · Personal projects: `algo-visualizer` · `c-utils` · `db-bench` |
 
 ---
 
@@ -266,6 +289,15 @@ Projects built outside of coursework — some finished, some still in progress.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Simplicity is prerequisite for reliability."*
+— Edsger W. Dijkstra
 
 </div>
 

@@ -16,6 +16,7 @@
 [![Ubicación](https://img.shields.io/badge/Torrejón%20de%20Ardoz-5DCAA5?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Web](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
 [![Currículum](https://img.shields.io/badge/CV%20y%20Currículum-085041?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
+[![Buscando prácticas](https://img.shields.io/badge/🎯_Buscando_Prácticas-Verano_2027-1D9E75?style=for-the-badge)]()
 
 </div>
 
@@ -51,6 +52,28 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | 🎓 | UAH GII 2024–2028 |
 
 </td></tr></table>
+
+---
+
+## 🎯 Actualmente
+
+| | |
+|---|---|
+| 📚 **Estudiando** | Ingeniería del Software Avanzada · Inteligencia Artificial · Sistemas Operativos Avanzados |
+| 🔨 **Construyendo** | `algo-visualizer` — trazador visual paso a paso de algoritmos de ordenación y grafos en canvas |
+| 🎯 **Objetivo** | Cerrar 3er año con fuerza · conseguir unas prácticas en Verano 2027 en sistemas, backend o datos |
+
+---
+
+## 📅 Línea de Tiempo de Aprendizaje
+
+| Año | Qué pasó |
+|-----|----------|
+| 2022 | Bachillerato de Ciencias — Física y Matemáticas · Primer HTML/CSS → english-project para unas compañeras del instituto |
+| 2023 | Especialista en Seguridad @ Base Aérea de Torrejón · Descubrí Java y la programación en serio |
+| 2024 | Grado en Ingeniería Informática @ UAH · Java · C · Estructuras de Datos · SSOO · Redes · SQL Oracle |
+| 2025 | Java RMI · POSIX threads · Algoritmia (DP, B&B) · Oracle RBAC · Instructor de Natación @ Humanitas |
+| 2026 | PostgreSQL internos · Bases de Datos Avanzadas · Python · Proyectos personales: `algo-visualizer` · `c-utils` · `db-bench` |
 
 ---
 
@@ -266,6 +289,15 @@ Proyectos fuera del plan de estudios — algunos terminados, otros aún en march
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
   <img alt="Animación serpiente de contribuciones GitHub" src="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+*"La simplicidad es un requisito previo para la fiabilidad."*
+— Edsger W. Dijkstra
 
 </div>
 
