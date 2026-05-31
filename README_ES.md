@@ -60,7 +60,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | | |
 |---|---|
 | 📚 **Estudiando** | Ingeniería del Software Avanzada · Inteligencia Artificial · Sistemas Operativos Avanzados |
-| 🔨 **Construyendo** | `algo-visualizer` — trazador visual paso a paso de algoritmos de ordenación y grafos en canvas |
+| 🔨 **Construyendo** | `algoritmo-grafos` — trazador visual paso a paso de algoritmos de ordenación y grafos en canvas |
 | 🎯 **Objetivo** | Cerrar 3er año con fuerza · conseguir unas prácticas en Verano 2027 en sistemas, backend o datos |
 
 ---
@@ -261,7 +261,7 @@ Proyectos fuera del plan de estudios — algunos terminados, otros aún en march
 | Proyecto | Descripción | Stack | Estado |
 |---------|-------------|-------|--------|
 | [english-project](https://github.com/Danix29/english-project) | Plataforma web de inglés — web estática creada antes de la carrera para ayudar a unas compañeras del instituto a alojar su proyecto de inglés de bachillerato. Hero, tarjetas de ejercicios, sección de equipo, animaciones de scroll. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ✅ En línea |
-| algo-visualizer | Trazador visual paso a paso de algoritmos de ordenación y grafos. Previsto: bubble / merge / quicksort, BFS/DFS, todo renderizado en `<canvas>` con control fotograma a fotograma. | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas](https://img.shields.io/badge/Canvas_API-1D9E75?style=flat-square) | 🚧 En progreso |
+| algoritmo-grafos | Trazador visual paso a paso de algoritmos de ordenación y grafos. Previsto: bubble / merge / quicksort, BFS/DFS, todo renderizado en `<canvas>` con control fotograma a fotograma. | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas](https://img.shields.io/badge/Canvas_API-1D9E75?style=flat-square) | 🚧 En progreso |
 | c-utils | Pequeña colección de programas utilitarios en C — estadísticas de ficheros, herramientas de cadenas, estructuras de datos básicas desde cero. Campo de práctica para trabajo a nivel de sistemas. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 🚧 En progreso |
 | db-bench | Scripts de benchmarking PostgreSQL y cuadernos de análisis: comparativa B-Tree vs Hash, particionado hash/rango, análisis EXPLAIN ANALYZE, perfilado E/S con pg_statio. | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🚧 En progreso |
 
