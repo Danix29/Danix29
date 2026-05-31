@@ -60,7 +60,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | | |
 |---|---|
 | 📚 **Studying** | Advanced Software Engineering · Artificial Intelligence · Advanced Operating Systems |
-| 🔨 **Building** | `algo-visualizer` — step-by-step sorting & graph algorithm tracer on canvas |
+| 🔨 **Building** | `proyecto-x` — step-by-step sorting & graph algorithm tracer on canvas |
 | 🎯 **Goal** | Close 3rd year strong · land a Summer 2027 internship in systems, backend or data |
 
 ---
