@@ -329,6 +329,8 @@ Projects built outside of coursework — some finished, some still in progress.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Danix29&color=1d9e75&style=flat-square&label=Profile+Views)
 
+<img src="https://danieldelnogal.goatcounter.com/count?p=/github-profile" alt="" style="display:none" width="0" height="0"/>
+
 *B.S. Computer Engineering · Universidad de Alcalá de Henares · Torrejón de Ardoz, Madrid*
 
 </div>

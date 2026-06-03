@@ -329,6 +329,8 @@ Proyectos fuera del plan de estudios — algunos terminados, otros aún en march
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Danix29&color=1d9e75&style=flat-square&label=Visitas+al+perfil)
 
+<img src="https://danieldelnogal.goatcounter.com/count?p=/github-profile-es" alt="" style="display:none" width="0" height="0"/>
+
 *Grado en Ingeniería Informática · Universidad de Alcalá de Henares · Torrejón de Ardoz, Madrid*
 
 </div>
