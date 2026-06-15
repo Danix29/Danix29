@@ -203,9 +203,9 @@ Technical documentation and project reports.
 </td>
 <td align="center" width="50%">
 
-🇬🇧 **English — B2+ · Upper-intermediate**
+🇬🇧 **English — C1+ · High-proficiency · Mother Tongue**
 
-`█████████░░░` 77%
+`████████████░` 90%
 
 Bilingual school background.
 Daily professional use at Base Aérea de Torrejón.
