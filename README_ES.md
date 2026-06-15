@@ -209,7 +209,7 @@ Documentación técnica e informes de proyecto.
 
 Entorno escolar bilingüe.
 Uso profesional diario en Base Aérea de Torrejón.
-Trabajando activamente hacia el **C1 Advanced**.
+Trabajando diariamente con inglés.
 
 </td>
 </tr></table>
