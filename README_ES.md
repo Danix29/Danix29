@@ -203,9 +203,9 @@ Documentación técnica e informes de proyecto.
 </td>
 <td align="center" width="50%">
 
-🇬🇧 **Inglés — B2+ · Nivel alto**
+🇬🇧 **Inglés — C1+ · Alto · Lengua Materna**
 
-`█████████░░░` 77%
+`███████████░` 90%
 
 Entorno escolar bilingüe.
 Uso profesional diario en Base Aérea de Torrejón.
