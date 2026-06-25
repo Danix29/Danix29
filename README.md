@@ -209,7 +209,7 @@ Technical documentation and project reports.
 
 Bilingual school background.
 Daily professional use at Base Aérea de Torrejón.
-Actively working towards **C1 Advanced**.
+Actively adwarded with **C1 Advanced**.
 
 </td>
 </tr></table>
