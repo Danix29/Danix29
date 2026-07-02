@@ -47,7 +47,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | | |
 |:---:|:---|
 | 🇪🇸 | Español C2 — Nativo |
-| 🇬🇧 | Inglés B2+ → C1 |
+| 🇬🇧 | Inglés C1+ - MotherTongue |
 | 🚗 | Carnet de Conducir B |
 | 🎓 | UAH GII 2024–2028 |
 
