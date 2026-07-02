@@ -47,7 +47,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | | |
 |:---:|:---|
 | 🇪🇸 | Spanish C2 — Native |
-| 🇬🇧 | English B2+ → C1 |
+| 🇬🇧 | English C1+ - MotherTongue |
 | 🚗 | Driver's License B |
 | 🎓 | UAH GII 2024–2028 |
 
