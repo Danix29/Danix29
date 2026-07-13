@@ -145,6 +145,14 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 ---
 
+## 🏅 Certifications & Extension Courses
+
+| Course | Institution | Description |
+|---|---|---|
+| Curso de Emprendimiento Internacional (022541) | Universidad de Alcalá — Cursos de Extensión | Intensive program on international entrepreneurship: business model design (Canvas, Lean Startup, Design Thinking), market analysis, e-commerce, financing and investor relations, financial viability and project pitching |
+
+---
+
 ## 💼 Professional Experience
 
 <details>

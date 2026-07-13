@@ -145,6 +145,14 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 ---
 
+## 🏅 Certificaciones y Cursos de Extensión
+
+| Curso | Institución | Descripción |
+|---|---|---|
+| Curso de Emprendimiento Internacional (022541) | Universidad de Alcalá — Cursos de Extensión | Programa intensivo de emprendimiento internacional: diseño de modelos de negocio (Canvas, Lean Startup, Design Thinking), análisis de mercado, comercio electrónico, financiación y relación con inversores, viabilidad económico-financiera y presentación de proyectos |
+
+---
+
 ## 💼 Experiencia Profesional
 
 <details>
