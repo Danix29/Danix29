@@ -116,19 +116,13 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | Planificación Automática | [planificacion-automatica](https://github.com/Danix29/planificacion-automatica) | ![PDDL](https://img.shields.io/badge/PDDL-7f77dd?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Planificación y programación en IA: búsqueda en espacio de estados y de planes, modelado de dominios STRIPS/PDDL, heurísticas de planificación, planificación basada en grafos y jerárquica (HTN), problemas temporales y con restricciones de recursos |
 | Computación Ubicua | [computacion-ubicua](https://github.com/Danix29/computacion-ubicua) | ![IoT](https://img.shields.io/badge/IoT%2FMQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Sistemas pervasivos y sensibles al contexto: arquitecturas IoT, redes de sensores, protocolos inalámbricos (BLE, ZigBee, MQTT), computación en el borde y embebida, sensado móvil y privacidad en inteligencia ambiental |
 | Paradigmas Avanzados de Programación | [paradigmas-avanzados-programacion](https://github.com/Danix29/paradigmas-avanzados-programacion) | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) ![Prolog](https://img.shields.io/badge/Prolog-EF4A00?style=flat-square) | Más allá de la orientación a objetos: programación funcional, funciones de orden superior, inmutabilidad y evaluación perezosa, sistemas de tipos avanzados, paradigmas lógico y declarativo, metaprogramación y estilos reactivos |
+| Estructura y Organización de Computadores | [estructura-organizacion-computadores](https://github.com/Danix29/estructura-organizacion-computadores) | ![Assembly](https://img.shields.io/badge/Assembly-444441?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Fundamentos de arquitectura de computadores: arquitectura del juego de instrucciones, ruta de datos y unidad de control, modos de direccionamiento, programación en ensamblador, jerarquía de memoria y caché, buses y E/S |
 
 #### 🏢 Práctica Profesional — 12 ECTS
 
 | Asignatura | Repositorio | Stack | Descripción |
 |---------|-----------|-------|-------------|
 | Prácticas Externas | [practicas-externas](https://github.com/Danix29/practicas-externas) | ![Industria](https://img.shields.io/badge/Industria-085041?style=flat-square) | Estancia supervisada en empresa: aplicación de la ingeniería del software en un entorno de producción real, integración en un equipo profesional y entrega de la memoria técnica y defensa final |
-
-#### 🔁 Arrastrada de 1er Año — 6 ECTS
-
-| Asignatura | Repositorio | Stack | Descripción |
-|---------|-----------|-------|-------------|
-| Estructura y Organización de Computadores | [estructura-organizacion-computadores](https://github.com/Danix29/estructura-organizacion-computadores) | ![Assembly](https://img.shields.io/badge/Assembly-444441?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Fundamentos de arquitectura de computadores: arquitectura del juego de instrucciones, ruta de datos y unidad de control, modos de direccionamiento, programación en ensamblador, jerarquía de memoria y caché, buses y E/S |
-
 ---
 
 ### 📅 2024–2026 — Completado
