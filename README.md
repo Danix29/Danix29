@@ -59,9 +59,10 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 | | |
 |---|---|
-| 📚 **Studying** | Advanced Software Engineering · Artificial Intelligence · Advanced Operating Systems |
+| 📚 **Studying** | 3rd year @ UAH — **12 subjects · 78 ECTS enrolled**: Artificial Intelligence, Advanced Software Engineering, Advanced Operating Systems, Language Processors, Automated Planning, Ubiquitous Computing and more |
+| 🔐 **Self-studying** | **Fortinet NSE 1 · NSE 2 · NSE 3** — cybersecurity fundamentals, threat landscape and the Fortinet Security Fabric |
 | 🔨 **Building** | `algoritmo-grafos` — step-by-step sorting & graph algorithm tracer on canvas |
-| 🎯 **Goal** | Close 3rd year strong · land a Summer 2027 internship in systems, backend or data |
+| 🎯 **Goal** | Close 3rd year strong · complete the 12-ECTS external internship · land a Summer 2027 placement in systems, backend, security or data |
 
 ---
 
@@ -74,6 +75,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | 2024 | Computer Engineering @ UAH · Java · C · Data Structures · OS · Networks · Oracle SQL |
 | 2025 | Java RMI · POSIX threads · Algorithms (DP, B&B) · Oracle RBAC · Swimming Instructor @ Humanitas |
 | 2026 | PostgreSQL internals · Advanced Databases · Python · Personal projects: `algo-visualizer` · `c-utils` · `db-bench` |
+| 2026–27 | 3rd year in full: 78 ECTS across AI, compilers, planning and ubiquitous computing · External internship · Started the Fortinet NSE 1–3 cybersecurity track on my own |
 
 ---
 
@@ -83,22 +85,49 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 ---
 
-### 📅 2026–2027 — Active
+### 📅 2026–2027 — Active · 3rd Year
 
-#### 1st Semester
+<div align="center">
+
+![Subjects](https://img.shields.io/badge/Subjects-12-1D9E75?style=for-the-badge)
+![ECTS](https://img.shields.io/badge/ECTS-78-085041?style=for-the-badge)
+![Compulsory](https://img.shields.io/badge/Compulsory-5-5DCAA5?style=for-the-badge)
+![Electives](https://img.shields.io/badge/Electives-5-5DCAA5?style=for-the-badge)
+![Internship](https://img.shields.io/badge/Internship-12_ECTS-1D9E75?style=for-the-badge)
+
+</div>
+
+#### 🧱 Compulsory Core — 5 subjects · 30 ECTS
 
 | Subject | Repository | Stack | Description |
 |---------|-----------|-------|-------------|
-| Advanced Software Engineering | [ingenieria-software-avanzada](https://github.com/Danix29/ingenieria-software-avanzada) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Design patterns, refactoring, clean architecture, SOLID principles, CMMI process models |
-| Artificial Intelligence | [inteligencia-artificial](https://github.com/Danix29/inteligencia-artificial) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ML fundamentals, supervised/unsupervised learning, neural networks, genetic algorithms |
-| Advanced Operating Systems | [sistemas-operativos-avanzados](https://github.com/Danix29/sistemas-operativos-avanzados) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Virtual memory, page replacement, I/O subsystems, file systems, journaling |
+| Artificial Intelligence | [inteligencia-artificial](https://github.com/Danix29/inteligencia-artificial) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Search and heuristics, knowledge representation, machine learning fundamentals, supervised/unsupervised models, neural networks and genetic algorithms |
+| Advanced Software Engineering | [ingenieria-software-avanzada](https://github.com/Danix29/ingenieria-software-avanzada) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Design patterns, refactoring, clean and layered architecture, SOLID principles, software quality metrics and CMMI process models |
+| Advanced Operating Systems | [sistemas-operativos-avanzados](https://github.com/Danix29/sistemas-operativos-avanzados) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Virtual memory and page replacement, scheduling policies, I/O subsystems, file systems and journaling, kernel-level synchronisation |
+| Project Management | [gestion-proyectos](https://github.com/Danix29/gestion-proyectos) | ![PM](https://img.shields.io/badge/PM-5DCAA5?style=flat-square) | PMBOK and PRINCE2, agile frameworks, PERT/CPM scheduling, earned value management, effort estimation and software risk management |
+| Enterprise Information Systems | [sistemas-empresariales](https://github.com/Danix29/sistemas-empresariales) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ERP, CRM and SCM systems, service-oriented architecture, business process integration, IT governance (COBIT, ITIL) and enterprise architecture |
 
-#### 2nd Semester
+#### 🧪 Electives — 5 subjects · 30 ECTS
 
 | Subject | Repository | Stack | Description |
 |---------|-----------|-------|-------------|
-| Project Management | [gestion-proyectos](https://github.com/Danix29/gestion-proyectos) | ![PM](https://img.shields.io/badge/PM-5DCAA5?style=flat-square) | PMBOK, PRINCE2, agile, PERT/CPM, EVM, effort estimation, risk management |
-| Enterprise Information Systems | [sistemas-empresariales](https://github.com/Danix29/sistemas-empresariales) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ERP, CRM, SCM, SOA, IT governance (COBIT, ITIL), enterprise architecture |
+| Language Processors | [procesadores-lenguaje](https://github.com/Danix29/procesadores-lenguaje) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Flex/Bison](https://img.shields.io/badge/Flex%2FBison-444441?style=flat-square) | Compiler construction end to end: lexical analysis, LL/LR parsing, abstract syntax trees, symbol tables, semantic checking, intermediate code generation and optimisation |
+| Knowledge and Automated Reasoning | [conocimiento-razonamiento-automatizado](https://github.com/Danix29/conocimiento-razonamiento-automatizado) | ![Prolog](https://img.shields.io/badge/Prolog-EF4A00?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Knowledge representation and automated inference: propositional and first-order logic, resolution and unification, logic programming in Prolog, ontologies and description logics, reasoning under uncertainty |
+| Automated Planning | [planificacion-automatica](https://github.com/Danix29/planificacion-automatica) | ![PDDL](https://img.shields.io/badge/PDDL-7f77dd?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | AI planning and scheduling: state-space and plan-space search, STRIPS/PDDL domain modelling, planning heuristics, graph-based and hierarchical (HTN) planning, temporal and resource-constrained problems |
+| Ubiquitous Computing | [computacion-ubicua](https://github.com/Danix29/computacion-ubicua) | ![IoT](https://img.shields.io/badge/IoT%2FMQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Pervasive and context-aware systems: IoT architectures, sensor networks, wireless protocols (BLE, ZigBee, MQTT), edge and embedded computing, mobile sensing, and privacy in ambient intelligence |
+| Advanced Programming Paradigms | [paradigmas-avanzados-programacion](https://github.com/Danix29/paradigmas-avanzados-programacion) | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) ![Prolog](https://img.shields.io/badge/Prolog-EF4A00?style=flat-square) | Beyond object orientation: functional programming, higher-order functions, immutability and lazy evaluation, advanced type systems, logic and declarative paradigms, metaprogramming and reactive styles |
+
+#### 🏢 Professional Practice — 12 ECTS
+
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
+| External Internship | [practicas-externas](https://github.com/Danix29/practicas-externas) | ![Industry](https://img.shields.io/badge/Industry-085041?style=flat-square) | Supervised placement in a company: applying software engineering in a real production environment, working inside a professional team and delivering the technical report and final defence |
+
+#### 🔁 Carried over from 1st Year — 6 ECTS
+
+| Subject | Repository | Stack | Description |
+|---------|-----------|-------|-------------|
+| Computer Structure and Organisation | [estructura-organizacion-computadores](https://github.com/Danix29/estructura-organizacion-computadores) | ![Assembly](https://img.shields.io/badge/Assembly-444441?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Computer architecture fundamentals: instruction set architecture, datapath and control unit, addressing modes, assembly programming, memory hierarchy and cache, buses and I/O |
 
 ---
 
@@ -142,6 +171,31 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | Physics | [fisica](https://github.com/Danix29/fisica) | ![Physics](https://img.shields.io/badge/Physics-e24b4a?style=flat-square) | Classical mechanics, electromagnetism, waves and optics. Lab practices and problem solving |
 | Business Fundamentals | [fundamentos-empresa](https://github.com/Danix29/fundamentos-empresa) | ![Business](https://img.shields.io/badge/Business-ba7517?style=flat-square) | Company structure, management, accounting basics and business models for engineers |
 | Research Methods | [biblioteca-ingenierias](https://github.com/Danix29/biblioteca-ingenierias) | ![Docs](https://img.shields.io/badge/Research-5DCAA5?style=flat-square) | Academic research, scientific databases, citation management and technical documentation |
+
+---
+
+## 🔐 Cybersecurity — Self-Study Track
+
+> Studying the **Fortinet Training Institute** certification path on my own, in parallel with the degree. It picks up where `arquitectura-redes-1` and `arquitectura-redes-2` left off and adds the defensive and operational side of networking.
+
+<div align="center">
+
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![NSE 1](https://img.shields.io/badge/NSE_1-In_progress-1D9E75?style=for-the-badge)
+![NSE 2](https://img.shields.io/badge/NSE_2-In_progress-1D9E75?style=for-the-badge)
+![NSE 3](https://img.shields.io/badge/NSE_3-In_progress-1D9E75?style=for-the-badge)
+
+</div>
+
+| Level | Focus | What it covers |
+|---|---|---|
+| **NSE 1** — Information Security Awareness | Threat landscape | Types of threat actors and their motivations, common attack vectors (phishing, social engineering, malware, ransomware), insider and IoT risk, password hygiene and data protection best practices |
+| **NSE 2** — The Evolution of Cybersecurity Solutions | Defence technologies | Why each class of security product exists and the problem it solves: firewalls and NGFW, secure email and web gateways, sandboxing, endpoint protection and EDR, SIEM/SOAR, WAF, VPN, NAC, ZTNA, CASB and SASE |
+| **NSE 3** — Fortinet Security Products | Security Fabric | The Fortinet product portfolio and how the pieces integrate: FortiGate, FortiAnalyzer, FortiManager, FortiClient, FortiMail, FortiWeb, FortiSandbox and FortiAuthenticator |
+
+**Why:** networking and operating systems are the two areas of the degree I enjoy most, and security is where they meet. The three levels are vendor-focused but they give a clean, structured map of the whole defensive landscape — a good base before moving on to hands-on labs and a more practical certification.
+
+> *Note:* in the current Fortinet Training Institute naming, NSE 1–3 correspond to the **Fortinet Certified Fundamentals (FCF)** entry-level track.
 
 ---
 
@@ -228,6 +282,7 @@ Actively adwarded with **C1 Advanced**.
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
 [![Portfolio](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
 [![Web Source](https://img.shields.io/badge/Web%20Source-085041?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29/Danix29.github.io)
 [![Resume](https://img.shields.io/badge/Resume%20and%20CV-5DCAA5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
@@ -236,6 +291,7 @@ Actively adwarded with **C1 Advanced**.
 
 | | Link | Description |
 |---|------|-------------|
+| 💼 | [linkedin.com/in/danieldnb](https://www.linkedin.com/in/danieldnb/) | LinkedIn — professional profile, experience and education. **Best place to reach me** |
 | 🌐 | [danix29.github.io](https://danix29.github.io) | Personal portfolio — bilingual EN/ES |
 | 💻 | [Danix29.github.io repo](https://github.com/Danix29/Danix29.github.io) | Source code of the portfolio website |
 | 📄 | [Resume repo](https://github.com/Danix29/Resume) | CV in English and Spanish + Cover Letter |
@@ -244,7 +300,7 @@ Actively adwarded with **C1 Advanced**.
 
 ## 💬 Ask Me About
 
-**Java concurrency & distributed systems** · **PostgreSQL physical storage & indexing** · **Dynamic Programming & Branch and Bound** · **Security protocols in critical environments**
+**Java concurrency & distributed systems** · **PostgreSQL physical storage & indexing** · **Dynamic Programming & Branch and Bound** · **Network security fundamentals & the Fortinet Security Fabric** · **Security protocols in critical environments**
 
 ---
 
@@ -322,6 +378,22 @@ Projects built outside of coursework — some finished, some still in progress.
 
 ---
 
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm actively looking for a **Summer 2027 internship** in systems, backend, security or data — and always happy to talk about any of the above.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20email-085041?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29)
+
+</div>
+
+---
+
 <div align="center">
 
 *"Simplicity is prerequisite for reliability."*
@@ -338,6 +410,8 @@ Projects built outside of coursework — some finished, some still in progress.
 ![Visitor Count](https://komarev.com/ghpvc/?username=Danix29&color=1d9e75&style=flat-square&label=Profile+Views)
 
 <img src="https://danieldelnogal.goatcounter.com/count?p=/github-profile" alt="" style="display:none" width="0" height="0"/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fdanieldnb-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
 
 *B.S. Computer Engineering · Universidad de Alcalá de Henares · Torrejón de Ardoz, Madrid*
 

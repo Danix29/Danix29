@@ -59,9 +59,10 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 | | |
 |---|---|
-| 📚 **Estudiando** | Ingeniería del Software Avanzada · Inteligencia Artificial · Sistemas Operativos Avanzados |
+| 📚 **Estudiando** | 3er año @ UAH — **12 asignaturas · 78 ECTS matriculados**: Inteligencia Artificial, Ingeniería del Software Avanzada, Sistemas Operativos Avanzados, Procesadores del Lenguaje, Planificación Automática, Computación Ubicua y más |
+| 🔐 **Autoestudio** | **Fortinet NSE 1 · NSE 2 · NSE 3** — fundamentos de ciberseguridad, panorama de amenazas y el Fortinet Security Fabric |
 | 🔨 **Construyendo** | `algoritmo-grafos` — trazador visual paso a paso de algoritmos de ordenación y grafos en canvas |
-| 🎯 **Objetivo** | Cerrar 3er año con fuerza · conseguir unas prácticas en Verano 2027 en sistemas, backend o datos |
+| 🎯 **Objetivo** | Cerrar 3er año con fuerza · completar las 12 ECTS de prácticas externas · conseguir unas prácticas en Verano 2027 en sistemas, backend, seguridad o datos |
 
 ---
 
@@ -74,6 +75,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | 2024 | Grado en Ingeniería Informática @ UAH · Java · C · Estructuras de Datos · SSOO · Redes · SQL Oracle |
 | 2025 | Java RMI · POSIX threads · Algoritmia (DP, B&B) · Oracle RBAC · Instructor de Natación @ Humanitas |
 | 2026 | PostgreSQL internos · Bases de Datos Avanzadas · Python · Proyectos personales: `algo-visualizer` · `c-utils` · `db-bench` |
+| 2026–27 | 3er año completo: 78 ECTS entre IA, compiladores, planificación y computación ubicua · Prácticas externas · Empecé por mi cuenta el itinerario Fortinet NSE 1–3 de ciberseguridad |
 
 ---
 
@@ -83,22 +85,49 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 ---
 
-### 📅 2026–2027 — Activo
+### 📅 2026–2027 — Activo · 3er Año
 
-#### 1er Cuatrimestre
+<div align="center">
+
+![Asignaturas](https://img.shields.io/badge/Asignaturas-12-1D9E75?style=for-the-badge)
+![ECTS](https://img.shields.io/badge/ECTS-78-085041?style=for-the-badge)
+![Obligatorias](https://img.shields.io/badge/Obligatorias-5-5DCAA5?style=for-the-badge)
+![Optativas](https://img.shields.io/badge/Optativas-5-5DCAA5?style=for-the-badge)
+![Practicas](https://img.shields.io/badge/Pr%C3%A1cticas-12_ECTS-1D9E75?style=for-the-badge)
+
+</div>
+
+#### 🧱 Núcleo Obligatorio — 5 asignaturas · 30 ECTS
 
 | Asignatura | Repositorio | Stack | Descripción |
 |---------|-----------|-------|-------------|
-| Ingeniería del Software Avanzada | [ingenieria-software-avanzada](https://github.com/Danix29/ingenieria-software-avanzada) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Patrones de diseño, refactoring, arquitectura limpia, principios SOLID, modelos de proceso CMMI |
-| Inteligencia Artificial | [inteligencia-artificial](https://github.com/Danix29/inteligencia-artificial) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Fundamentos de ML, aprendizaje supervisado/no supervisado, redes neuronales, algoritmos genéticos |
-| Sistemas Operativos Avanzados | [sistemas-operativos-avanzados](https://github.com/Danix29/sistemas-operativos-avanzados) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Memoria virtual, reemplazo de páginas, subsistemas E/S, sistemas de ficheros, journaling |
+| Inteligencia Artificial | [inteligencia-artificial](https://github.com/Danix29/inteligencia-artificial) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Búsqueda y heurísticas, representación del conocimiento, fundamentos de ML, modelos supervisados/no supervisados, redes neuronales y algoritmos genéticos |
+| Ingeniería del Software Avanzada | [ingenieria-software-avanzada](https://github.com/Danix29/ingenieria-software-avanzada) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Patrones de diseño, refactoring, arquitectura limpia por capas, principios SOLID, métricas de calidad del software y modelos de proceso CMMI |
+| Sistemas Operativos Avanzados | [sistemas-operativos-avanzados](https://github.com/Danix29/sistemas-operativos-avanzados) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Memoria virtual y reemplazo de páginas, políticas de planificación, subsistemas de E/S, sistemas de ficheros y journaling, sincronización a nivel de kernel |
+| Gestión de Proyectos | [gestion-proyectos](https://github.com/Danix29/gestion-proyectos) | ![PM](https://img.shields.io/badge/PM-5DCAA5?style=flat-square) | PMBOK y PRINCE2, marcos ágiles, planificación PERT/CPM, gestión del valor ganado, estimación de esfuerzo y gestión de riesgos software |
+| Sistemas Empresariales | [sistemas-empresariales](https://github.com/Danix29/sistemas-empresariales) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Sistemas ERP, CRM y SCM, arquitectura orientada a servicios, integración de procesos de negocio, gobernanza TI (COBIT, ITIL) y arquitectura empresarial |
 
-#### 2º Cuatrimestre
+#### 🧪 Optativas — 5 asignaturas · 30 ECTS
 
 | Asignatura | Repositorio | Stack | Descripción |
 |---------|-----------|-------|-------------|
-| Gestión de Proyectos | [gestion-proyectos](https://github.com/Danix29/gestion-proyectos) | ![PM](https://img.shields.io/badge/PM-5DCAA5?style=flat-square) | PMBOK, PRINCE2, ágil, PERT/CPM, EVM, estimación de esfuerzo, gestión de riesgos |
-| Sistemas Empresariales | [sistemas-empresariales](https://github.com/Danix29/sistemas-empresariales) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ERP, CRM, SCM, SOA, gobernanza TI (COBIT, ITIL), arquitectura empresarial |
+| Procesadores del Lenguaje | [procesadores-lenguaje](https://github.com/Danix29/procesadores-lenguaje) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Flex/Bison](https://img.shields.io/badge/Flex%2FBison-444441?style=flat-square) | Construcción de compiladores de principio a fin: análisis léxico, parsing LL/LR, árboles de sintaxis abstracta, tablas de símbolos, comprobación semántica, generación y optimización de código intermedio |
+| Conocimiento y Razonamiento Automatizado | [conocimiento-razonamiento-automatizado](https://github.com/Danix29/conocimiento-razonamiento-automatizado) | ![Prolog](https://img.shields.io/badge/Prolog-EF4A00?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Representación del conocimiento e inferencia automática: lógica proposicional y de primer orden, resolución y unificación, programación lógica en Prolog, ontologías y lógicas de descripción, razonamiento bajo incertidumbre |
+| Planificación Automática | [planificacion-automatica](https://github.com/Danix29/planificacion-automatica) | ![PDDL](https://img.shields.io/badge/PDDL-7f77dd?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Planificación y programación en IA: búsqueda en espacio de estados y de planes, modelado de dominios STRIPS/PDDL, heurísticas de planificación, planificación basada en grafos y jerárquica (HTN), problemas temporales y con restricciones de recursos |
+| Computación Ubicua | [computacion-ubicua](https://github.com/Danix29/computacion-ubicua) | ![IoT](https://img.shields.io/badge/IoT%2FMQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Sistemas pervasivos y sensibles al contexto: arquitecturas IoT, redes de sensores, protocolos inalámbricos (BLE, ZigBee, MQTT), computación en el borde y embebida, sensado móvil y privacidad en inteligencia ambiental |
+| Paradigmas Avanzados de Programación | [paradigmas-avanzados-programacion](https://github.com/Danix29/paradigmas-avanzados-programacion) | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) ![Prolog](https://img.shields.io/badge/Prolog-EF4A00?style=flat-square) | Más allá de la orientación a objetos: programación funcional, funciones de orden superior, inmutabilidad y evaluación perezosa, sistemas de tipos avanzados, paradigmas lógico y declarativo, metaprogramación y estilos reactivos |
+
+#### 🏢 Práctica Profesional — 12 ECTS
+
+| Asignatura | Repositorio | Stack | Descripción |
+|---------|-----------|-------|-------------|
+| Prácticas Externas | [practicas-externas](https://github.com/Danix29/practicas-externas) | ![Industria](https://img.shields.io/badge/Industria-085041?style=flat-square) | Estancia supervisada en empresa: aplicación de la ingeniería del software en un entorno de producción real, integración en un equipo profesional y entrega de la memoria técnica y defensa final |
+
+#### 🔁 Arrastrada de 1er Año — 6 ECTS
+
+| Asignatura | Repositorio | Stack | Descripción |
+|---------|-----------|-------|-------------|
+| Estructura y Organización de Computadores | [estructura-organizacion-computadores](https://github.com/Danix29/estructura-organizacion-computadores) | ![Assembly](https://img.shields.io/badge/Assembly-444441?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Fundamentos de arquitectura de computadores: arquitectura del juego de instrucciones, ruta de datos y unidad de control, modos de direccionamiento, programación en ensamblador, jerarquía de memoria y caché, buses y E/S |
 
 ---
 
@@ -142,6 +171,31 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | Física | [fisica](https://github.com/Danix29/fisica) | ![Physics](https://img.shields.io/badge/Física-e24b4a?style=flat-square) | Mecánica clásica, electromagnetismo, ondas y óptica. Prácticas de laboratorio y resolución de problemas |
 | Fundamentos de la Empresa | [fundamentos-empresa](https://github.com/Danix29/fundamentos-empresa) | ![Business](https://img.shields.io/badge/Empresa-ba7517?style=flat-square) | Estructura empresarial, gestión, contabilidad básica y modelos de negocio para ingenieros |
 | Investigación | [biblioteca-ingenierias](https://github.com/Danix29/biblioteca-ingenierias) | ![Docs](https://img.shields.io/badge/Investigación-5DCAA5?style=flat-square) | Investigación académica, bases de datos científicas, gestión de citas y documentación técnica |
+
+---
+
+## 🔐 Ciberseguridad — Itinerario de Autoestudio
+
+> Estudiando por mi cuenta el itinerario de certificación del **Fortinet Training Institute**, en paralelo al grado. Continúa donde lo dejaron `arquitectura-redes-1` y `arquitectura-redes-2`, añadiendo la parte defensiva y operativa de las redes.
+
+<div align="center">
+
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![NSE 1](https://img.shields.io/badge/NSE_1-En_curso-1D9E75?style=for-the-badge)
+![NSE 2](https://img.shields.io/badge/NSE_2-En_curso-1D9E75?style=for-the-badge)
+![NSE 3](https://img.shields.io/badge/NSE_3-En_curso-1D9E75?style=for-the-badge)
+
+</div>
+
+| Nivel | Enfoque | Qué cubre |
+|---|---|---|
+| **NSE 1** — Information Security Awareness | Panorama de amenazas | Tipos de actores de amenaza y sus motivaciones, vectores de ataque comunes (phishing, ingeniería social, malware, ransomware), riesgo interno y de IoT, buenas prácticas de contraseñas y protección de datos |
+| **NSE 2** — The Evolution of Cybersecurity Solutions | Tecnologías de defensa | Por qué existe cada tipo de producto de seguridad y qué problema resuelve: firewalls y NGFW, pasarelas seguras de correo y web, sandboxing, protección de endpoint y EDR, SIEM/SOAR, WAF, VPN, NAC, ZTNA, CASB y SASE |
+| **NSE 3** — Fortinet Security Products | Security Fabric | El porfolio de productos Fortinet y cómo se integran entre sí: FortiGate, FortiAnalyzer, FortiManager, FortiClient, FortiMail, FortiWeb, FortiSandbox y FortiAuthenticator |
+
+**Por qué:** redes y sistemas operativos son las dos áreas del grado que más disfruto, y la seguridad es donde se cruzan. Los tres niveles están centrados en el fabricante, pero dan un mapa claro y estructurado de todo el panorama defensivo — una buena base antes de pasar a laboratorios prácticos y a una certificación más aplicada.
+
+> *Nota:* en la nomenclatura actual del Fortinet Training Institute, NSE 1–3 corresponden al itinerario de nivel inicial **Fortinet Certified Fundamentals (FCF)**.
 
 ---
 
@@ -228,6 +282,7 @@ Trabajando diariamente con inglés.
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
 [![Portfolio](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
 [![Código Web](https://img.shields.io/badge/Código%20de%20la%20Web-085041?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29/Danix29.github.io)
 [![Currículum](https://img.shields.io/badge/CV%20y%20Currículum-5DCAA5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
@@ -236,6 +291,7 @@ Trabajando diariamente con inglés.
 
 | | Enlace | Descripción |
 |---|------|-------------|
+| 💼 | [linkedin.com/in/danieldnb](https://www.linkedin.com/in/danieldnb/) | LinkedIn — perfil profesional, experiencia y formación. **Mejor forma de contactarme** |
 | 🌐 | [danix29.github.io](https://danix29.github.io) | Portfolio personal — bilingüe EN/ES |
 | 💻 | [Repo Danix29.github.io](https://github.com/Danix29/Danix29.github.io) | Código fuente del portfolio |
 | 📄 | [Repo Resume](https://github.com/Danix29/Resume) | CV en inglés y español + Carta de presentación |
@@ -244,7 +300,7 @@ Trabajando diariamente con inglés.
 
 ## 💬 Pregúntame sobre
 
-**Concurrencia en Java y sistemas distribuidos** · **Almacenamiento físico e indexación en PostgreSQL** · **Programación Dinámica y Branch and Bound** · **Protocolos de seguridad en entornos críticos**
+**Concurrencia en Java y sistemas distribuidos** · **Almacenamiento físico e indexación en PostgreSQL** · **Programación Dinámica y Branch and Bound** · **Fundamentos de seguridad de redes y el Fortinet Security Fabric** · **Protocolos de seguridad en entornos críticos**
 
 ---
 
@@ -322,6 +378,22 @@ Proyectos fuera del plan de estudios — algunos terminados, otros aún en march
 
 ---
 
+## 📫 Contacta Conmigo
+
+<div align="center">
+
+Estoy buscando activamente unas **prácticas en Verano 2027** en sistemas, backend, seguridad o datos — y siempre encantado de hablar de cualquiera de los temas anteriores.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Con%C3%A9ctate%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
+[![Email](https://img.shields.io/badge/Env%C3%ADame%20un%20email-085041?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
+[![GitHub](https://img.shields.io/badge/S%C3%ADgueme%20en%20GitHub-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29)
+
+</div>
+
+---
+
 <div align="center">
 
 *"La simplicidad es un requisito previo para la fiabilidad."*
@@ -338,6 +410,8 @@ Proyectos fuera del plan de estudios — algunos terminados, otros aún en march
 ![Visitor Count](https://komarev.com/ghpvc/?username=Danix29&color=1d9e75&style=flat-square&label=Visitas+al+perfil)
 
 <img src="https://danieldelnogal.goatcounter.com/count?p=/github-profile-es" alt="" style="display:none" width="0" height="0"/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fdanieldnb-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
 
 *Grado en Ingeniería Informática · Universidad de Alcalá de Henares · Torrejón de Ardoz, Madrid*
 
