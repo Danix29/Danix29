@@ -116,20 +116,14 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | Automated Planning | [planificacion-automatica](https://github.com/Danix29/planificacion-automatica) | ![PDDL](https://img.shields.io/badge/PDDL-7f77dd?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | AI planning and scheduling: state-space and plan-space search, STRIPS/PDDL domain modelling, planning heuristics, graph-based and hierarchical (HTN) planning, temporal and resource-constrained problems |
 | Ubiquitous Computing | [computacion-ubicua](https://github.com/Danix29/computacion-ubicua) | ![IoT](https://img.shields.io/badge/IoT%2FMQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Pervasive and context-aware systems: IoT architectures, sensor networks, wireless protocols (BLE, ZigBee, MQTT), edge and embedded computing, mobile sensing, and privacy in ambient intelligence |
 | Advanced Programming Paradigms | [paradigmas-avanzados-programacion](https://github.com/Danix29/paradigmas-avanzados-programacion) | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) ![Prolog](https://img.shields.io/badge/Prolog-EF4A00?style=flat-square) | Beyond object orientation: functional programming, higher-order functions, immutability and lazy evaluation, advanced type systems, logic and declarative paradigms, metaprogramming and reactive styles |
+| Computer Structure and Organisation | [estructura-organizacion-computadores](https://github.com/Danix29/estructura-organizacion-computadores) | ![Assembly](https://img.shields.io/badge/Assembly-444441?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Computer architecture fundamentals: instruction set architecture, datapath and control unit, addressing modes, assembly programming, memory hierarchy and cache, buses and I/O |
+
 
 #### 🏢 Professional Practice — 12 ECTS
 
 | Subject | Repository | Stack | Description |
 |---------|-----------|-------|-------------|
 | External Internship | [practicas-externas](https://github.com/Danix29/practicas-externas) | ![Industry](https://img.shields.io/badge/Industry-085041?style=flat-square) | Supervised placement in a company: applying software engineering in a real production environment, working inside a professional team and delivering the technical report and final defence |
-
-#### 🔁 Carried over from 1st Year — 6 ECTS
-
-| Subject | Repository | Stack | Description |
-|---------|-----------|-------|-------------|
-| Computer Structure and Organisation | [estructura-organizacion-computadores](https://github.com/Danix29/estructura-organizacion-computadores) | ![Assembly](https://img.shields.io/badge/Assembly-444441?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Computer architecture fundamentals: instruction set architecture, datapath and control unit, addressing modes, assembly programming, memory hierarchy and cache, buses and I/O |
-
----
 
 ### 📅 2024–2026 — Completed
 
