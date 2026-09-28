@@ -16,7 +16,7 @@
 [![Ubicación](https://img.shields.io/badge/Torrejón%20de%20Ardoz-5DCAA5?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Web](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
 [![Currículum](https://img.shields.io/badge/CV%20y%20Currículum-085041?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
-[![Buscando prácticas](https://img.shields.io/badge/🎯_Buscando_Prácticas-Verano_2027-1D9E75?style=for-the-badge)]()
+[![Buscando prácticas](https://img.shields.io/badge/🎯_Buscando_Prácticas--1D9E75?style=for-the-badge)]()
 
 </div>
 
