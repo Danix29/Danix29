@@ -47,7 +47,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | | |
 |:---:|:---|
 | 🇪🇸 | Español C2 — Nativo |
-| 🇬🇧 | Inglés C1+ - MotherTongue |
+| 🇬🇧 | Inglés C1+ — Certificado (EOI) |
 | 🚗 | Carnet de Conducir B |
 | 🎓 | UAH GII 2024–2028 |
 
@@ -70,6 +70,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 | Año | Qué pasó |
 |-----|----------|
+| 2018–22 | ESO con ampliación científica (astronomía y astrofísica) · Programa preuniversitario de Astrofísica y Astrobiología en Cumlaude School |
 | 2022 | Bachillerato de Ciencias — Física y Matemáticas · Primer HTML/CSS → english-project para unas compañeras del instituto |
 | 2023 | Especialista en Seguridad @ Base Aérea de Torrejón · Descubrí Java y la programación en serio |
 | 2024 | Grado en Ingeniería Informática @ UAH · Java · C · Estructuras de Datos · SSOO · Redes · SQL Oracle |
@@ -259,13 +260,13 @@ Documentación técnica e informes de proyecto.
 </td>
 <td align="center" width="50%">
 
-🇬🇧 **Inglés — C1+ · Alto · Lengua Materna**
+🇬🇧 **Inglés — C1+ · Certificado**
 
 `███████████░` 90%
 
+C1+ certificado — Escuela Oficial de Idiomas (EOI) de Madrid, 2023.
 Entorno escolar bilingüe.
 Uso profesional diario en Base Aérea de Torrejón.
-Trabajando diariamente con inglés.
 
 </td>
 </tr></table>
@@ -286,7 +287,7 @@ Trabajando diariamente con inglés.
 | | Enlace | Descripción |
 |---|------|-------------|
 | 💼 | [linkedin.com/in/danieldnb](https://www.linkedin.com/in/danieldnb/) | LinkedIn — perfil profesional, experiencia y formación. **Mejor forma de contactarme** |
-| 🌐 | [danix29.github.io](https://danix29.github.io) | Portfolio personal — bilingüe EN/ES |
+| 🌐 | [danix29.github.io](https://danix29.github.io) | Portfolio personal — bilingüe EN/ES, rediseño brutalista industrial (oct. 2026) con intro de arranque |
 | 💻 | [Repo Danix29.github.io](https://github.com/Danix29/Danix29.github.io) | Código fuente del portfolio |
 | 📄 | [Repo Resume](https://github.com/Danix29/Resume) | CV en inglés y español + Carta de presentación |
 
