@@ -1,22 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=220&section=header&text=Daniel%20Del%20Nogal%20Buchanan&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Grado%20en%20Ingeniería%20Informática%20%40%20UAH&descAlignY=58&descColor=9FE1CB&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:FF2A2A&height=230&section=header&text=Daniel%20Del%20Nogal%20Buchanan&fontSize=36&fontColor=EAEAEA&fontAlignY=36&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%C2%B7%20UAH%20%C2%B7%20Sistemas%20%C2%B7%20Bases%20de%20datos%20%C2%B7%20Seguridad&descAlignY=56&descColor=EAEAEA&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![English Version](https://img.shields.io/badge/🇬🇧_English_Version-085041?style=for-the-badge)](README.md)
+[![English Version](https://img.shields.io/badge/EN-English_Version-161616?style=for-the-badge&labelColor=FF2A2A)](README.md)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1100&color=FF2A2A&center=true&vCenter=true&width=720&lines=Sistemas+Concurrentes+%7C+Bases+de+Datos+%7C+Algoritmia;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Seguridad+de+Redes+%C2%B7+Fortinet+NSE+1-3;3%2B+a%C3%B1os+en+entornos+de+seguridad+cr%C3%ADtica;Buscando+pr%C3%A1cticas+%C2%B7+Verano+2027)](https://danix29.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldnb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
+[![Email](https://img.shields.io/badge/Email-dani.del.nogal%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF2A2A)](mailto:dani.del.nogal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-danix29.github.io-FF2A2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161616)](https://danix29.github.io)
+[![CV](https://img.shields.io/badge/CV-Harvard_EN%2FES-161616?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=FF2A2A)](https://github.com/Danix29/Resume)
+[![Phone](https://img.shields.io/badge/%2B34_644_543_608-161616?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34644543608)
+![Open](https://img.shields.io/badge/Buscando_prácticas-Verano_2027-FF2A2A?style=for-the-badge&labelColor=161616)
 
 </div>
 
+---
+
+## 🖥️ Portfolio
+
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=1D9E75&center=true&width=700&lines=Sistemas+Concurrentes+%7C+Bases+de+Datos+%7C+Algoritmia;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Seguridad+y+Gestión+de+Riesgos+%7C+2%2B+años;Rutas+en+Furgoneta+%7C+Viajero+%7C+España)
+<a href="https://danix29.github.io"><img src="assets/portfolio-hero.png" alt="danix29.github.io" width="92%"/></a>
 
-[![Email](https://img.shields.io/badge/dani.del.nogal%40gmail.com-085041?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
-[![Teléfono](https://img.shields.io/badge/%2B34%20644%20543%20608-1D9E75?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
-[![Ubicación](https://img.shields.io/badge/Torrejón%20de%20Ardoz-5DCAA5?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Web](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
-[![Currículum](https://img.shields.io/badge/CV%20y%20Currículum-085041?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
-[![Buscando prácticas](https://img.shields.io/badge/🎯_Buscando_Prácticas--1D9E75?style=for-the-badge)]()
+Rediseño brutalista industrial con intro de arranque, bilingüe EN/ES. El mismo contenido también está generado con nueve skills de diseño distintas en [**/skins**](https://danix29.github.io/skins/).
+
+[![Site](https://img.shields.io/badge/Visitar_la_web-→-FF2A2A?style=for-the-badge&labelColor=161616)](https://danix29.github.io)
+[![Skins](https://img.shields.io/badge/Ver_las_9_skills_de_diseño-→-161616?style=for-the-badge&labelColor=FF2A2A)](https://danix29.github.io/skins/)
 
 </div>
 
@@ -24,38 +34,39 @@
 
 ## 👤 Sobre mí
 
-<table><tr><td>
+<table><tr><td valign="top">
 
-Estudiante de Ingeniería Informática en la UAH que combina los estudios con **más de 2 años de experiencia profesional activa** en entornos de alta responsabilidad. Trabajo simultáneamente como **Especialista en Seguridad, Salvamento y Gestión de Riesgos** en la Base Aérea de Torrejón y como **Instructor de Natación y Coordinador de Actividades Acuáticas** en Humanitas Bilingual School — ambos roles exigen toma de decisiones bajo presión, coordinación de equipos, supervisión de protocolos de seguridad y comunicación técnica en entorno bilingüe (ES/EN).
+Estudiante de Ingeniería Informática en la UAH que combina los estudios con **más de 3 años de experiencia profesional activa** en entornos de alta responsabilidad. Trabajo simultáneamente como **Especialista en Seguridad, Salvamento y Gestión de Riesgos** en la Base Aérea de Torrejón y como **Instructor de Natación y Coordinador de Actividades Acuáticas** en Humanitas Bilingual School — ambos roles exigen toma de decisiones bajo presión, coordinación de equipos, supervisión de protocolos de seguridad y comunicación técnica en entorno bilingüe (ES/EN).
 
 Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI, POSIX threads), **bases de datos avanzadas** (PostgreSQL, Oracle, RBAC) y **algoritmia** (Programación Dinámica, Backtracking, Branch and Bound). Base analítica en ciencias con interés genuino en astrofísica y física.
 
-</td><td width="32%" valign="top" align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1D9E75?style=flat-square&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-<br>
+</td><td width="36%" valign="top">
 
 | | |
 |:---:|:---|
-| 🇪🇸 | Español C2 — Nativo |
-| 🇬🇧 | Inglés C1+ — Certificado (EOI) |
-| 🚗 | Carnet de Conducir B |
-| 🎓 | UAH GII 2024–2028 |
+| 🎓 | Ingeniería Informática · UAH · 3er curso |
+| 💼 | 3+ años en entornos de seguridad crítica |
+| 🔐 | Fortinet NSE 1–3 · autoestudio |
+| 🇪🇸 | Español C2 · Nativo |
+| 🇬🇧 | Inglés C1+ · Certificado (EOI) |
+| 📍 | Torrejón de Ardoz, Madrid |
+| 🚗 | Carnet de conducir B |
 
 </td></tr></table>
 
+<div align="center">
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=java,c,python,postgres,linux,bash,git,github,html,css,js,vscode&perline=12" alt="Java, C, Python, PostgreSQL, Linux, Bash, Git, GitHub, HTML, CSS, JavaScript, VS Code"/>
+
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_·_PL%2FSQL-161616?style=flat-square) ![RMI](https://img.shields.io/badge/Java_RMI-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX_threads-161616?style=flat-square&logo=linux&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet_NSE_1--3-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+
+</div>
+
 ---
 
-## 🎯 Actualmente
+## ⚡ Ahora mismo
 
 | | |
 |---|---|
@@ -66,17 +77,20 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 ---
 
-## 📅 Línea de Tiempo de Aprendizaje
+## ⭐ Proyectos destacados
 
-| Año | Qué pasó |
-|-----|----------|
-| 2018–22 | ESO con ampliación científica (astronomía y astrofísica) · Programa preuniversitario de Astrofísica y Astrobiología en Cumlaude School |
-| 2022 | Bachillerato de Ciencias — Física y Matemáticas · Primer HTML/CSS → english-project para unas compañeras del instituto |
-| 2023 | Especialista en Seguridad @ Base Aérea de Torrejón · Descubrí Java y la programación en serio |
-| 2024 | Grado en Ingeniería Informática @ UAH · Java · C · Estructuras de Datos · SSOO · Redes · SQL Oracle |
-| 2025 | Java RMI · POSIX threads · Algoritmia (DP, B&B) · Oracle RBAC · Instructor de Natación @ Humanitas |
-| 2026 | PostgreSQL internos · Bases de Datos Avanzadas · Python · Proyectos personales: `algo-visualizer` · `c-utils` · `db-bench` |
-| 2026–27 | 3er año completo: 78 ECTS entre IA, compiladores, planificación y computación ubicua · Prácticas externas · Empecé por mi cuenta el itinerario Fortinet NSE 1–3 de ciberseguridad |
+Prácticas hechas con restricciones reales. Cada asignatura tiene su propio repositorio.
+
+<div align="center">
+
+<a href="https://github.com/Danix29/programacion-avanzada"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danix29&repo=programacion-avanzada&hide_border=true&bg_color=0B0B0B&title_color=FF2A2A&text_color=EAEAEA&icon_color=FF2A2A&border_color=3A3A3A&show_owner=false" alt="programacion-avanzada"/></a>
+<a href="https://github.com/Danix29/algoritmia"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danix29&repo=algoritmia&hide_border=true&bg_color=0B0B0B&title_color=FF2A2A&text_color=EAEAEA&icon_color=FF2A2A&border_color=3A3A3A&show_owner=false" alt="algoritmia"/></a>
+<a href="https://github.com/Danix29/bases-datos"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danix29&repo=bases-datos&hide_border=true&bg_color=0B0B0B&title_color=FF2A2A&text_color=EAEAEA&icon_color=FF2A2A&border_color=3A3A3A&show_owner=false" alt="bases-datos"/></a>
+<a href="https://github.com/Danix29/bases-datos-avanzadas"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danix29&repo=bases-datos-avanzadas&hide_border=true&bg_color=0B0B0B&title_color=FF2A2A&text_color=EAEAEA&icon_color=FF2A2A&border_color=3A3A3A&show_owner=false" alt="bases-datos-avanzadas"/></a>
+<a href="https://github.com/Danix29/sistemas-operativos"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danix29&repo=sistemas-operativos&hide_border=true&bg_color=0B0B0B&title_color=FF2A2A&text_color=EAEAEA&icon_color=FF2A2A&border_color=3A3A3A&show_owner=false" alt="sistemas-operativos"/></a>
+<a href="https://github.com/Danix29/english-project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danix29&repo=english-project&hide_border=true&bg_color=0B0B0B&title_color=FF2A2A&text_color=EAEAEA&icon_color=FF2A2A&border_color=3A3A3A&show_owner=false" alt="english-project"/></a>
+
+</div>
 
 ---
 
@@ -90,11 +104,11 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 <div align="center">
 
-![Asignaturas](https://img.shields.io/badge/Asignaturas-12-1D9E75?style=for-the-badge)
-![ECTS](https://img.shields.io/badge/ECTS-78-085041?style=for-the-badge)
-![Obligatorias](https://img.shields.io/badge/Obligatorias-5-5DCAA5?style=for-the-badge)
-![Optativas](https://img.shields.io/badge/Optativas-5-5DCAA5?style=for-the-badge)
-![Practicas](https://img.shields.io/badge/Pr%C3%A1cticas-12_ECTS-1D9E75?style=for-the-badge)
+![Asignaturas](https://img.shields.io/badge/Asignaturas-12-FF2A2A?style=for-the-badge)
+![ECTS](https://img.shields.io/badge/ECTS-78-161616?style=for-the-badge)
+![Obligatorias](https://img.shields.io/badge/Obligatorias-5-C41A1A?style=for-the-badge)
+![Optativas](https://img.shields.io/badge/Optativas-5-C41A1A?style=for-the-badge)
+![Practicas](https://img.shields.io/badge/Pr%C3%A1cticas-12_ECTS-FF2A2A?style=for-the-badge)
 
 </div>
 
@@ -105,7 +119,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | Inteligencia Artificial | [inteligencia-artificial](https://github.com/Danix29/inteligencia-artificial) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Búsqueda y heurísticas, representación del conocimiento, fundamentos de ML, modelos supervisados/no supervisados, redes neuronales y algoritmos genéticos |
 | Ingeniería del Software Avanzada | [ingenieria-software-avanzada](https://github.com/Danix29/ingenieria-software-avanzada) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Patrones de diseño, refactoring, arquitectura limpia por capas, principios SOLID, métricas de calidad del software y modelos de proceso CMMI |
 | Sistemas Operativos Avanzados | [sistemas-operativos-avanzados](https://github.com/Danix29/sistemas-operativos-avanzados) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Memoria virtual y reemplazo de páginas, políticas de planificación, subsistemas de E/S, sistemas de ficheros y journaling, sincronización a nivel de kernel |
-| Gestión de Proyectos | [gestion-proyectos](https://github.com/Danix29/gestion-proyectos) | ![PM](https://img.shields.io/badge/PM-5DCAA5?style=flat-square) | PMBOK y PRINCE2, marcos ágiles, planificación PERT/CPM, gestión del valor ganado, estimación de esfuerzo y gestión de riesgos software |
+| Gestión de Proyectos | [gestion-proyectos](https://github.com/Danix29/gestion-proyectos) | ![PM](https://img.shields.io/badge/PM-C41A1A?style=flat-square) | PMBOK y PRINCE2, marcos ágiles, planificación PERT/CPM, gestión del valor ganado, estimación de esfuerzo y gestión de riesgos software |
 | Sistemas Empresariales | [sistemas-empresariales](https://github.com/Danix29/sistemas-empresariales) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Sistemas ERP, CRM y SCM, arquitectura orientada a servicios, integración de procesos de negocio, gobernanza TI (COBIT, ITIL) y arquitectura empresarial |
 
 #### 🧪 Optativas — 5 asignaturas · 30 ECTS
@@ -123,10 +137,12 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 | Asignatura | Repositorio | Stack | Descripción |
 |---------|-----------|-------|-------------|
-| Prácticas Externas | [practicas-externas](https://github.com/Danix29/practicas-externas) | ![Industria](https://img.shields.io/badge/Industria-085041?style=flat-square) | Estancia supervisada en empresa: aplicación de la ingeniería del software en un entorno de producción real, integración en un equipo profesional y entrega de la memoria técnica y defensa final |
+| Prácticas Externas | [practicas-externas](https://github.com/Danix29/practicas-externas) | ![Industria](https://img.shields.io/badge/Industria-161616?style=flat-square) | Estancia supervisada en empresa: aplicación de la ingeniería del software en un entorno de producción real, integración en un equipo profesional y entrega de la memoria técnica y defensa final |
 ---
 
-### 📅 2024–2026 — Completado
+<details>
+<summary>📚 <b>2024–2026 — Asignaturas completadas</b> (haz clic para desplegar)</summary>
+<br>
 
 #### ⚙️ Sistemas y Redes
 
@@ -165,7 +181,9 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 |---------|-----------|-------|-------------|
 | Física | [fisica](https://github.com/Danix29/fisica) | ![Physics](https://img.shields.io/badge/Física-e24b4a?style=flat-square) | Mecánica clásica, electromagnetismo, ondas y óptica. Prácticas de laboratorio y resolución de problemas |
 | Fundamentos de la Empresa | [fundamentos-empresa](https://github.com/Danix29/fundamentos-empresa) | ![Business](https://img.shields.io/badge/Empresa-ba7517?style=flat-square) | Estructura empresarial, gestión, contabilidad básica y modelos de negocio para ingenieros |
-| Investigación | [biblioteca-ingenierias](https://github.com/Danix29/biblioteca-ingenierias) | ![Docs](https://img.shields.io/badge/Investigación-5DCAA5?style=flat-square) | Investigación académica, bases de datos científicas, gestión de citas y documentación técnica |
+| Investigación | [biblioteca-ingenierias](https://github.com/Danix29/biblioteca-ingenierias) | ![Docs](https://img.shields.io/badge/Investigación-C41A1A?style=flat-square) | Investigación académica, bases de datos científicas, gestión de citas y documentación técnica |
+
+</details>
 
 ---
 
@@ -176,11 +194,15 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 <div align="center">
 
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![NSE 1](https://img.shields.io/badge/NSE_1-En_curso-1D9E75?style=for-the-badge)
-![NSE 2](https://img.shields.io/badge/NSE_2-En_curso-1D9E75?style=for-the-badge)
-![NSE 3](https://img.shields.io/badge/NSE_3-En_curso-1D9E75?style=for-the-badge)
+![NSE 1](https://img.shields.io/badge/NSE_1-En_curso-FF2A2A?style=for-the-badge)
+![NSE 2](https://img.shields.io/badge/NSE_2-En_curso-FF2A2A?style=for-the-badge)
+![NSE 3](https://img.shields.io/badge/NSE_3-En_curso-FF2A2A?style=for-the-badge)
 
 </div>
+
+<details>
+<summary><b>Qué cubren NSE 1, 2 y 3</b></summary>
+<br>
 
 | Nivel | Enfoque | Qué cubre |
 |---|---|---|
@@ -192,13 +214,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 > *Nota:* en la nomenclatura actual del Fortinet Training Institute, NSE 1–3 corresponden al itinerario de nivel inicial **Fortinet Certified Fundamentals (FCF)**.
 
----
-
-## 🏅 Certificaciones y Cursos de Extensión
-
-| Curso | Institución | Descripción |
-|---|---|---|
-| Curso de Emprendimiento Internacional (022541) | Universidad de Alcalá — Cursos de Extensión | Programa intensivo de emprendimiento internacional: diseño de modelos de negocio (Canvas, Lean Startup, Design Thinking), análisis de mercado, comercio electrónico, financiación y relación con inversores, viabilidad económico-financiera y presentación de proyectos |
+</details>
 
 ---
 
@@ -208,12 +224,12 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 <summary><b>🛡️ Especialista en Seguridad, Salvamento y Gestión de Riesgos</b> · <code>Mayo 2023 – Presente</code> · Base Aérea de Torrejón · Humanitas Bilingual School</summary>
 <br>
 
-![](https://img.shields.io/badge/Protocolos%20de%20emergencia-085041?style=flat-square)
-![](https://img.shields.io/badge/Logística%20operacional-085041?style=flat-square)
-![](https://img.shields.io/badge/Análisis%20preventivo-085041?style=flat-square)
-![](https://img.shields.io/badge/Control%20de%20infraestructura-085041?style=flat-square)
-![](https://img.shields.io/badge/Evaluación%20de%20riesgos-085041?style=flat-square)
-![](https://img.shields.io/badge/Informes%20de%20incidencias-085041?style=flat-square)
+![](https://img.shields.io/badge/Protocolos%20de%20emergencia-161616?style=flat-square)
+![](https://img.shields.io/badge/Logística%20operacional-161616?style=flat-square)
+![](https://img.shields.io/badge/Análisis%20preventivo-161616?style=flat-square)
+![](https://img.shields.io/badge/Control%20de%20infraestructura-161616?style=flat-square)
+![](https://img.shields.io/badge/Evaluación%20de%20riesgos-161616?style=flat-square)
+![](https://img.shields.io/badge/Informes%20de%20incidencias-161616?style=flat-square)
 
 - Ejecución de protocolos avanzados de seguridad y emergencia en instalaciones militares y de acceso público con alto volumen diario de usuarios, garantizando cumplimiento sin incidentes de la normativa nacional de seguridad
 - Coordinación y supervisión de equipos de seguridad multipersona: planificación de turnos, procedimientos de control de acceso, gestión de flujos de usuarios y monitorización de aforo en tiempo real
@@ -228,12 +244,12 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 <summary><b>🏊 Instructor de Natación y Coordinador de Actividades Acuáticas</b> · <code>Feb 2025 – Presente</code> · Humanitas Bilingual School — Torrejón de Ardoz</summary>
 <br>
 
-![](https://img.shields.io/badge/Planificación%20estratégica-085041?style=flat-square)
-![](https://img.shields.io/badge/Supervisión-085041?style=flat-square)
-![](https://img.shields.io/badge/Cumplimiento%20de%20seguridad-085041?style=flat-square)
-![](https://img.shields.io/badge/Reporting%20institucional-085041?style=flat-square)
-![](https://img.shields.io/badge/Seguimiento%20de%20rendimiento-085041?style=flat-square)
-![](https://img.shields.io/badge/Coordinación%20de%20equipos-085041?style=flat-square)
+![](https://img.shields.io/badge/Planificación%20estratégica-161616?style=flat-square)
+![](https://img.shields.io/badge/Supervisión-161616?style=flat-square)
+![](https://img.shields.io/badge/Cumplimiento%20de%20seguridad-161616?style=flat-square)
+![](https://img.shields.io/badge/Reporting%20institucional-161616?style=flat-square)
+![](https://img.shields.io/badge/Seguimiento%20de%20rendimiento-161616?style=flat-square)
+![](https://img.shields.io/badge/Coordinación%20de%20equipos-161616?style=flat-square)
 
 - Diseño e implementación de programas técnicos de entrenamiento individualizados para alumnos de todos los niveles, definiendo objetivos medibles, hitos de progresión por fases y criterios de evaluación periódica
 - Gestión del ciclo completo de sesiones: planificación, ejecución, supervisión de seguridad y reporting post-sesión a dirección del colegio y familias
@@ -245,6 +261,20 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 ---
 
+## 📅 Línea de Tiempo de Aprendizaje
+
+| Año | Qué pasó |
+|-----|----------|
+| 2018–22 | ESO con ampliación científica (astronomía y astrofísica) · Programa preuniversitario de Astrofísica y Astrobiología en Cumlaude School |
+| 2022 | Bachillerato de Ciencias — Física y Matemáticas · Primer HTML/CSS → english-project para unas compañeras del instituto |
+| 2023 | Especialista en Seguridad @ Base Aérea de Torrejón · Descubrí Java y la programación en serio |
+| 2024 | Grado en Ingeniería Informática @ UAH · Java · C · Estructuras de Datos · SSOO · Redes · SQL Oracle |
+| 2025 | Java RMI · POSIX threads · Algoritmia (DP, B&B) · Oracle RBAC · Instructor de Natación @ Humanitas |
+| 2026 | PostgreSQL internos · Bases de Datos Avanzadas · Python · Proyectos personales: `algo-visualizer` · `c-utils` · `db-bench` |
+| 2026–27 | 3er año completo: 78 ECTS entre IA, compiladores, planificación y computación ubicua · Prácticas externas · Empecé por mi cuenta el itinerario Fortinet NSE 1–3 de ciberseguridad |
+
+---
+
 ## 🌍 Idiomas
 
 <table align="center"><tr>
@@ -252,7 +282,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 
 🇪🇸 **Español — C2 · Nativo**
 
-`████████████` 100%
+![100%](https://geps.dev/progress/100?dangerColor=FF2A2A&warningColor=FF2A2A&successColor=FF2A2A)
 
 Dominio oral y escrito completo.
 Documentación técnica e informes de proyecto.
@@ -262,7 +292,7 @@ Documentación técnica e informes de proyecto.
 
 🇬🇧 **Inglés — C1+ · Certificado**
 
-`███████████░` 90%
+![90%](https://geps.dev/progress/90?dangerColor=FF2A2A&warningColor=FF2A2A&successColor=FF2A2A)
 
 C1+ certificado — Escuela Oficial de Idiomas (EOI) de Madrid, 2023.
 Entorno escolar bilingüe.
@@ -273,23 +303,24 @@ Uso profesional diario en Base Aérea de Torrejón.
 
 ---
 
-## 🌐 Web y Documentos
+## 🏅 Certificaciones y Cursos de Extensión
 
-<div align="center">
+| Curso | Institución | Descripción |
+|---|---|---|
+| Curso de Emprendimiento Internacional (022541) | Universidad de Alcalá — Cursos de Extensión | Programa intensivo de emprendimiento internacional: diseño de modelos de negocio (Canvas, Lean Startup, Design Thinking), análisis de mercado, comercio electrónico, financiación y relación con inversores, viabilidad económico-financiera y presentación de proyectos |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
-[![Portfolio](https://img.shields.io/badge/danix29.github.io-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://danix29.github.io)
-[![Código Web](https://img.shields.io/badge/Código%20de%20la%20Web-085041?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29/Danix29.github.io)
-[![Currículum](https://img.shields.io/badge/CV%20y%20Currículum-5DCAA5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Danix29/Resume)
+---
 
-</div>
+## 🛠️ Proyectos Personales
 
-| | Enlace | Descripción |
-|---|------|-------------|
-| 💼 | [linkedin.com/in/danieldnb](https://www.linkedin.com/in/danieldnb/) | LinkedIn — perfil profesional, experiencia y formación. **Mejor forma de contactarme** |
-| 🌐 | [danix29.github.io](https://danix29.github.io) | Portfolio personal — bilingüe EN/ES, rediseño brutalista industrial (oct. 2026) con intro de arranque |
-| 💻 | [Repo Danix29.github.io](https://github.com/Danix29/Danix29.github.io) | Código fuente del portfolio |
-| 📄 | [Repo Resume](https://github.com/Danix29/Resume) | CV en inglés y español + Carta de presentación |
+Proyectos fuera del plan de estudios — algunos terminados, otros aún en marcha.
+
+| Proyecto | Descripción | Stack | Estado |
+|---------|-------------|-------|--------|
+| [english-project](https://github.com/Danix29/english-project) | Plataforma web de inglés — web estática creada antes de la carrera para ayudar a unas compañeras del instituto a alojar su proyecto de inglés de bachillerato. Hero, tarjetas de ejercicios, sección de equipo, animaciones de scroll. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ✅ En línea |
+| algoritmo-grafos | Trazador visual paso a paso de algoritmos de ordenación y grafos. Previsto: bubble / merge / quicksort, BFS/DFS, todo renderizado en `<canvas>` con control fotograma a fotograma. | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas](https://img.shields.io/badge/Canvas_API-FF2A2A?style=flat-square) | 🚧 En progreso |
+| c-utils | Pequeña colección de programas utilitarios en C — estadísticas de ficheros, herramientas de cadenas, estructuras de datos básicas desde cero. Campo de práctica para trabajo a nivel de sistemas. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 🚧 En progreso |
+| db-bench | Scripts de benchmarking PostgreSQL y cuadernos de análisis: comparativa B-Tree vs Hash, particionado hash/rango, análisis EXPLAIN ANALYZE, perfilado E/S con pg_statio. | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🚧 En progreso |
 
 ---
 
@@ -299,7 +330,9 @@ Uso profesional diario en Base Aérea de Torrejón.
 
 ---
 
-## 📚 Lista de Lectura
+<details>
+<summary>📖 <b>Lista de lectura</b> (haz clic para desplegar)</summary>
+<br>
 
 Libros que he leído o estoy trabajando — más allá del plan de estudios.
 
@@ -311,79 +344,43 @@ Libros que he leído o estoy trabajando — más allá del plan de estudios.
 | *The Algorithm Design Manual* | Steven Skiena | Casos reales + catálogo de algoritmos. Más honesto sobre los trade-offs reales que los textos puramente teóricos |
 | *Computer Networks: A Top-Down Approach* | Kurose & Ross | Diseño de protocolos de capa de aplicación hacia abajo — la base de las dos asignaturas de redes |
 
----
-
-## 🛠️ Proyectos Personales
-
-Proyectos fuera del plan de estudios — algunos terminados, otros aún en marcha.
-
-| Proyecto | Descripción | Stack | Estado |
-|---------|-------------|-------|--------|
-| [english-project](https://github.com/Danix29/english-project) | Plataforma web de inglés — web estática creada antes de la carrera para ayudar a unas compañeras del instituto a alojar su proyecto de inglés de bachillerato. Hero, tarjetas de ejercicios, sección de equipo, animaciones de scroll. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ✅ En línea |
-| algoritmo-grafos | Trazador visual paso a paso de algoritmos de ordenación y grafos. Previsto: bubble / merge / quicksort, BFS/DFS, todo renderizado en `<canvas>` con control fotograma a fotograma. | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas](https://img.shields.io/badge/Canvas_API-1D9E75?style=flat-square) | 🚧 En progreso |
-| c-utils | Pequeña colección de programas utilitarios en C — estadísticas de ficheros, herramientas de cadenas, estructuras de datos básicas desde cero. Campo de práctica para trabajo a nivel de sistemas. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 🚧 En progreso |
-| db-bench | Scripts de benchmarking PostgreSQL y cuadernos de análisis: comparativa B-Tree vs Hash, particionado hash/rango, análisis EXPLAIN ANALYZE, perfilado E/S con pg_statio. | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🚧 En progreso |
+</details>
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub en cifras
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Danix29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danix29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Danix29&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0B0B&title_color=FF2A2A&text_color=EAEAEA&icon_color=FF2A2A&ring_color=FF2A2A" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danix29&layout=compact&langs_count=8&hide_border=true&bg_color=0B0B0B&title_color=FF2A2A&text_color=EAEAEA&icon_color=FF2A2A" alt="Top languages"/>
 
-![Streak](https://streak-stats.demolab.com?user=Danix29&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<img src="https://streak-stats.demolab.com?user=Danix29&hide_border=true&background=0B0B0B&ring=FF2A2A&fire=FF2A2A&currStreakNum=EAEAEA&sideNums=EAEAEA&currStreakLabel=FF2A2A&sideLabels=ABABAB&dates=858585&stroke=3A3A3A&date_format=j%20M%5B%20Y%5D" alt="Streak"/>
 
-</div>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Danix29&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/Danix29)
 
----
-
-## 🏆 Trofeos
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Danix29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/Danix29)
-
-</div>
-
----
-
-## 📊 Actividad
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danix29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1D9E75&line=1D9E75&point=5DCAA5&area=true&area_color=1D9E75)](https://github.com/Danix29)
-
-</div>
-
----
-
-## 🐍 Contribuciones
-
-<div align="center">
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Danix29&bg_color=0B0B0B&color=EAEAEA&line=FF2A2A&point=EAEAEA&area=true&area_color=FF2A2A&hide_border=true)](https://github.com/Danix29)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
-  <img alt="Animación serpiente de contribuciones GitHub" src="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
+  <img alt="Serpiente de contribuciones de GitHub" src="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 📫 Contacta Conmigo
+## 📫 Contacta conmigo
 
 <div align="center">
 
-Estoy buscando activamente unas **prácticas en Verano 2027** en sistemas, backend, seguridad o datos — y siempre encantado de hablar de cualquiera de los temas anteriores.
+Busco **prácticas para el verano de 2027** en sistemas, backend, seguridad o datos.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/Con%C3%A9ctate%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
-[![Email](https://img.shields.io/badge/Env%C3%ADame%20un%20email-085041?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani.del.nogal@gmail.com)
-[![GitHub](https://img.shields.io/badge/S%C3%ADgueme%20en%20GitHub-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danix29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
+[![Email](https://img.shields.io/badge/Email-Write_me-FF2A2A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161616)](mailto:dani.del.nogal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-danix29.github.io-161616?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FF2A2A)](https://danix29.github.io)
+[![CV](https://img.shields.io/badge/CV-Harvard_EN%2FES-161616?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=FF2A2A)](https://github.com/Danix29/Resume)
 
 </div>
 
@@ -391,23 +388,18 @@ Estoy buscando activamente unas **prácticas en Verano 2027** en sistemas, backe
 
 <div align="center">
 
-*"La simplicidad es un requisito previo para la fiabilidad."*
-— Edsger W. Dijkstra
+*"La simplicidad es un requisito previo para la fiabilidad."* — Edsger W. Dijkstra
 
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A2A,100:0B0B0B&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Danix29&color=1d9e75&style=flat-square&label=Visitas+al+perfil)
+![Views](https://komarev.com/ghpvc/?username=Danix29&color=ff2a2a&style=flat-square&label=Visitas+al+perfil)
 
 <img src="https://danieldelnogal.goatcounter.com/count?p=/github-profile-es" alt="" style="display:none" width="0" height="0"/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fdanieldnb-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
-
-*Grado en Ingeniería Informática · Universidad de Alcalá de Henares · Torrejón de Ardoz, Madrid*
+*Grado en Ingeniería Informática · Universidad de Alcalá · Torrejón de Ardoz, Madrid*
 
 </div>
