@@ -47,7 +47,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | | |
 |:---:|:---|
 | 🇪🇸 | Spanish C2 — Native |
-| 🇬🇧 | English C1+ - MotherTongue |
+| 🇬🇧 | English C1+ — Certified (EOI) |
 | 🚗 | Driver's License B |
 | 🎓 | UAH GII 2024–2028 |
 
@@ -70,6 +70,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 
 | Year | What happened |
 |------|--------------|
+| 2018–22 | ESO with extended sciences (astronomy & astrophysics) · Pre-university Astrophysics & Astrobiology programme at Cumlaude School |
 | 2022 | Bachillerato de Ciencias — Physics & Maths · First HTML/CSS → built the SBI English project for classmates |
 | 2023 | Security Specialist @ Base Aérea de Torrejón · Discovered Java and serious programming |
 | 2024 | Computer Engineering @ UAH · Java · C · Data Structures · OS · Networks · Oracle SQL |
@@ -259,13 +260,13 @@ Technical documentation and project reports.
 </td>
 <td align="center" width="50%">
 
-🇬🇧 **English — C1+ · High-proficiency · Mother Tongue**
+🇬🇧 **English — C1+ · Certified**
 
 `████████████░` 90%
 
+Certified C1+ — Official Language School (EOI) Madrid, 2023.
 Bilingual school background.
 Daily professional use at Base Aérea de Torrejón.
-Actively adwarded with **C1 Advanced**.
 
 </td>
 </tr></table>
@@ -286,7 +287,7 @@ Actively adwarded with **C1 Advanced**.
 | | Link | Description |
 |---|------|-------------|
 | 💼 | [linkedin.com/in/danieldnb](https://www.linkedin.com/in/danieldnb/) | LinkedIn — professional profile, experience and education. **Best place to reach me** |
-| 🌐 | [danix29.github.io](https://danix29.github.io) | Personal portfolio — bilingual EN/ES |
+| 🌐 | [danix29.github.io](https://danix29.github.io) | Personal portfolio — bilingual EN/ES, industrial-brutalist redesign (Oct 2026) with a boot-sequence intro |
 | 💻 | [Danix29.github.io repo](https://github.com/Danix29/Danix29.github.io) | Source code of the portfolio website |
 | 📄 | [Resume repo](https://github.com/Danix29/Resume) | CV in English and Spanish + Cover Letter |
 
