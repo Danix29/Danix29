@@ -357,10 +357,6 @@ Libros que he leído o estoy trabajando — más allá del plan de estudios.
 
 <img src="https://streak-stats.demolab.com?user=Danix29&hide_border=true&background=0B0B0B&ring=FF2A2A&fire=FF2A2A&currStreakNum=EAEAEA&sideNums=EAEAEA&currStreakLabel=FF2A2A&sideLabels=ABABAB&dates=858585&stroke=3A3A3A&date_format=j%20M%5B%20Y%5D" alt="Streak"/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Danix29&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/Danix29)
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Danix29&bg_color=0B0B0B&color=EAEAEA&line=FF2A2A&point=EAEAEA&area=true&area_color=FF2A2A&hide_border=true)](https://github.com/Danix29)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danix29/Danix29/output/github-snake.svg" />
