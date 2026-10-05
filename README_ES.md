@@ -23,10 +23,9 @@
 
 <a href="https://danix29.github.io"><img src="assets/portfolio-hero.png" alt="danix29.github.io" width="92%"/></a>
 
-Rediseño brutalista industrial con intro de arranque, bilingüe EN/ES. El mismo contenido también está generado con nueve skills de diseño distintas en [**/skins**](https://danix29.github.io/skins/).
+Rediseño brutalista industrial con intro de arranque, bilingüe EN/ES.
 
 [![Site](https://img.shields.io/badge/Visitar_la_web-→-FF2A2A?style=for-the-badge&labelColor=161616)](https://danix29.github.io)
-[![Skins](https://img.shields.io/badge/Ver_las_9_skills_de_diseño-→-161616?style=for-the-badge&labelColor=FF2A2A)](https://danix29.github.io/skins/)
 
 </div>
 
@@ -48,7 +47,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | 💼 | 3+ años en entornos de seguridad crítica |
 | 🔐 | Fortinet NSE 1–3 · autoestudio |
 | 🇪🇸 | Español C2 · Nativo |
-| 🇬🇧 | Inglés C1+ · Certificado (EOI) |
+| 🇬🇧 | Inglés C1+ · Certificado |
 | 📍 | Torrejón de Ardoz, Madrid |
 | 🚗 | Carnet de conducir B |
 
@@ -294,7 +293,7 @@ Documentación técnica e informes de proyecto.
 
 ![90%](https://geps.dev/progress/90?dangerColor=FF2A2A&warningColor=FF2A2A&successColor=FF2A2A)
 
-C1+ certificado — Escuela Oficial de Idiomas (EOI) de Madrid, 2023.
+C1+ certificado.
 Entorno escolar bilingüe.
 Uso profesional diario en Base Aérea de Torrejón.
 
