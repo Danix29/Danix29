@@ -4,7 +4,7 @@
 
 [![Versión en Español](https://img.shields.io/badge/ES-Versión_en_Español-161616?style=for-the-badge&labelColor=FF2A2A)](README_ES.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1100&color=FF2A2A&center=true&vCenter=true&width=720&lines=Concurrent+Systems+%7C+Databases+%7C+Algorithms;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Network+Security+%C2%B7+Fortinet+NSE+1-3;3%2B+years+in+safety-critical+work;Open+to+internships+%C2%B7+Summer+2027)](https://danix29.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1100&color=FF2A2A&center=true&vCenter=true&width=720&lines=Concurrent+Systems+%7C+Databases+%7C+Algorithms;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Fortinet+NSE+1-3+%C2%B7+in+progress;3%2B+years+in+safety-critical+work;Open+to+internships+%C2%B7+Summer+2027)](https://danix29.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldnb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
 [![Email](https://img.shields.io/badge/Email-dani.del.nogal%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF2A2A)](mailto:dani.del.nogal@gmail.com)
@@ -45,7 +45,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 |:---:|:---|
 | 🎓 | B.S. Computer Engineering · UAH · Year 3 |
 | 💼 | 3+ years in safety-critical work |
-| 🔐 | Fortinet NSE 1–3 · self-study |
+| 🔐 | Fortinet NSE 1–3 · in progress, not certified |
 | 🇪🇸 | Spanish C2 · Native |
 | 🇬🇧 | English C1+ · Certified |
 | 📍 | Torrejón de Ardoz, Madrid |
@@ -71,7 +71,6 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 |---|---|
 | 📚 **Studying** | 3rd year @ UAH — **12 subjects · 78 ECTS enrolled**: Artificial Intelligence, Advanced Software Engineering, Advanced Operating Systems, Language Processors, Automated Planning, Ubiquitous Computing and more |
 | 🔐 **Self-studying** | **Fortinet NSE 1 · NSE 2 · NSE 3** — cybersecurity fundamentals, threat landscape and the Fortinet Security Fabric |
-| 🔨 **Building** | `algoritmo-grafos` — step-by-step sorting & graph algorithm tracer on canvas |
 | 🎯 **Goal** | Close 3rd year strong · complete the 12-ECTS external internship · land a Summer 2027 placement in systems, backend, security or data |
 
 ---
@@ -269,7 +268,7 @@ Coursework built under real constraints. Every subject has its own repository.
 | 2023 | Security Specialist @ Base Aérea de Torrejón · Discovered Java and serious programming |
 | 2024 | Computer Engineering @ UAH · Java · C · Data Structures · OS · Networks · Oracle SQL |
 | 2025 | Java RMI · POSIX threads · Algorithms (DP, B&B) · Oracle RBAC · Swimming Instructor @ Humanitas |
-| 2026 | PostgreSQL internals · Advanced Databases · Python · Personal projects: `algo-visualizer` · `c-utils` · `db-bench` |
+| 2026 | PostgreSQL internals · Advanced Databases · Python |
 | 2026–27 | 3rd year in full: 78 ECTS across AI, compilers, planning and ubiquitous computing · External internship · Started the Fortinet NSE 1–3 cybersecurity track on my own |
 
 ---
@@ -317,9 +316,6 @@ Projects built outside of coursework — some finished, some still in progress.
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | [english-project](https://github.com/Danix29/english-project) | SBI English Learning Platform — static web built before university to help classmates at Humanitas host their high-school English project. Hero, exercise cards, team section, scroll animations. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ✅ Live |
-| algoritmo-grafos | Step-by-step visual tracer for sorting and graph algorithms. Planned: bubble / merge / quicksort, BFS/DFS, all rendered on `<canvas>` with frame-by-frame control. | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas](https://img.shields.io/badge/Canvas_API-FF2A2A?style=flat-square) | 🚧 In progress |
-| c-utils | Small collection of utility programs in C — file statistics, string manipulation tools, basic data structures from scratch. Practice ground for systems-level work outside of coursework. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 🚧 In progress |
-| db-bench | PostgreSQL benchmarking scripts and analysis notebooks from personal experimentation: B-Tree vs Hash index comparison, hash/range partitioning, EXPLAIN ANALYZE output, pg_statio I/O profiling. | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🚧 In progress |
 
 ---
 
