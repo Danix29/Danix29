@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-dani.del.nogal%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF2A2A)](mailto:dani.del.nogal@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-danix29.github.io-FF2A2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161616)](https://danix29.github.io)
 [![Resume](https://img.shields.io/badge/Resume-Harvard_EN%2FES-161616?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=FF2A2A)](https://github.com/Danix29/Resume)
-[![Phone](https://img.shields.io/badge/%2B34_644_543_608-161616?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34644543608)
 ![Open](https://img.shields.io/badge/Open_to_internships-Summer_2027-FF2A2A?style=for-the-badge&labelColor=161616)
 
 </div>
