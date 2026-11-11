@@ -4,7 +4,7 @@
 
 [![Versión en Español](https://img.shields.io/badge/ES-Versión_en_Español-161616?style=for-the-badge&labelColor=FF2A2A)](README_ES.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1100&color=FF2A2A&center=true&vCenter=true&width=720&lines=Concurrent+Systems+%7C+Databases+%7C+Algorithms;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Fortinet+NSE+1-3+%C2%B7+in+progress;3%2B+years+in+safety-critical+work;Open+to+internships+%C2%B7+Summer+2027)](https://danix29.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1100&color=FF2A2A&center=true&vCenter=true&width=720&lines=Concurrent+Systems+%7C+Databases+%7C+Algorithms;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Fortinet+NSE+1-3+%C2%B7+in+progress;Open+to+internships+%C2%B7+Summer+2027)](https://danix29.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldnb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
 [![Email](https://img.shields.io/badge/Email-dani.del.nogal%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF2A2A)](mailto:dani.del.nogal@gmail.com)
@@ -34,7 +34,7 @@ Industrial-brutalist redesign with a boot-sequence intro, bilingual EN/ES.
 
 <table><tr><td valign="top">
 
-Computer Engineering student at UAH combining academic studies with **3+ years of active professional experience** in high-responsibility environments. Working simultaneously as a **Security, Lifesaving and Risk Management Specialist** at Base Aérea de Torrejón and as a **Swimming Instructor and Aquatic Coordinator** at Humanitas Bilingual School — both roles requiring decision-making under pressure, team coordination, safety protocol supervision and technical communication in a bilingual (ES/EN) environment.
+Third-year Computer Engineering student at UAH. Alongside my studies I work part-time as a **lifeguard** (since October 2024) and **swimming instructor** (since April 2025) at Humanitas Bilingual School, after a summer as a lifeguard at Base Aérea de Torrejón (2022). Both jobs involve safety supervision, access control and dealing with families in a bilingual (ES/EN) environment.
 
 Technically focused on **concurrent and distributed systems** (Java RMI, POSIX threads), **advanced databases** (PostgreSQL, Oracle, RBAC) and **algorithms** (Dynamic Programming, Backtracking, Branch and Bound). Analytical foundation rooted in a science background with a genuine interest in astrophysics and physics.
 
@@ -43,7 +43,7 @@ Technically focused on **concurrent and distributed systems** (Java RMI, POSIX t
 | | |
 |:---:|:---|
 | 🎓 | B.S. Computer Engineering · UAH · Year 3 |
-| 💼 | 3+ years in safety-critical work |
+| 💼 | Part-time lifeguard & swimming instructor |
 | 🔐 | Fortinet NSE 1–3 · in progress, not certified |
 | 🇪🇸 | Spanish C2 · Native |
 | 🇬🇧 | English C1+ · Certified |
@@ -217,44 +217,11 @@ Coursework built under real constraints. Every subject has its own repository.
 
 ## 💼 Professional Experience
 
-<details>
-<summary><b>🛡️ Security, Lifesaving and Risk Management Specialist</b> · <code>May 2023 – Present</code> · Base Aérea de Torrejón · Humanitas Bilingual School</summary>
-<br>
-
-![](https://img.shields.io/badge/Emergency%20protocols-161616?style=flat-square)
-![](https://img.shields.io/badge/Operational%20logistics-161616?style=flat-square)
-![](https://img.shields.io/badge/Preventive%20analysis-161616?style=flat-square)
-![](https://img.shields.io/badge/Infrastructure%20QC-161616?style=flat-square)
-![](https://img.shields.io/badge/Risk%20assessment-161616?style=flat-square)
-![](https://img.shields.io/badge/Incident%20reporting-161616?style=flat-square)
-
-- Execution of advanced security and emergency protocols across military and public-access facilities with high daily user volumes, ensuring zero-incident compliance with national safety regulations
-- Coordination and supervision of multi-person security teams: shift planning, access control procedures, user flow management and real-time capacity monitoring
-- Systematic preventive risk assessment using structured evaluation procedures, identifying and neutralising potential hazards before escalation
-- Technical monitoring and logging of critical infrastructure parameters (water quality, safety equipment, facility conditions) with documented preventive maintenance cycles
-- Drafted and maintained operational incident reports, access logs and daily activity records in accordance with regulatory standards
-- Active operation in a fully bilingual (ES/EN) environment, communicating directly with international military staff on a daily basis
-
-</details>
-
-<details>
-<summary><b>🏊 Swimming Instructor and Aquatic Activities Coordinator</b> · <code>Feb 2025 – Present</code> · Humanitas Bilingual School — Torrejón de Ardoz</summary>
-<br>
-
-![](https://img.shields.io/badge/Strategic%20planning-161616?style=flat-square)
-![](https://img.shields.io/badge/Supervision-161616?style=flat-square)
-![](https://img.shields.io/badge/Safety%20compliance-161616?style=flat-square)
-![](https://img.shields.io/badge/Stakeholder%20reporting-161616?style=flat-square)
-![](https://img.shields.io/badge/Performance%20tracking-161616?style=flat-square)
-![](https://img.shields.io/badge/Team%20coordination-161616?style=flat-square)
-
-- Designed and implemented individualised technical training programmes for students across all skill levels, defining measurable objectives, phased progression milestones and periodic evaluation criteria
-- Managed end-to-end session lifecycle: planning, execution, safety supervision and post-session reporting to school management and families
-- Coordinated activity scheduling across multiple simultaneous groups (children, adults, competitive) optimising pool lane allocation and instructor resources
-- Maintained full compliance with aquatic safety regulations, performing daily facility inspection and equipment verification before sessions
-- Delivered progress reports and incident documentation to school management, demonstrating clear communication and accountability at institutional level
-
-</details>
+| Role | Period | Where | What I do |
+|---|---|---|---|
+| Swimming Instructor (part-time) | Apr 2025 – Present | Humanitas Bilingual School | Swimming lessons for babies, children, adults and children with disabilities; planning interactive sessions; safety supervision in the pool |
+| Lifeguard (part-time) | Oct 2024 – Present | Humanitas Bilingual School | Lifeguard at the school's teaching pool for all age groups; pool upkeep, access control and facility monitoring |
+| Lifeguard and Pool Staff (summer) | Jun 2022 – Aug 2022 | Base Aérea de Torrejón (via Instinto Deportivo) | Lifeguard at recreational and training pools, from children's pools to Olympic size; access control and support for aquatic activities alongside other lifeguards and staff |
 
 ---
 
@@ -263,8 +230,8 @@ Coursework built under real constraints. Every subject has its own repository.
 | Year | What happened |
 |------|--------------|
 | 2018–22 | ESO with extended sciences (astronomy & astrophysics) · Pre-university Astrophysics & Astrobiology programme at Cumlaude School |
-| 2022 | Bachillerato de Ciencias — Physics & Maths · First HTML/CSS → built the SBI English project for classmates |
-| 2023 | Security Specialist @ Base Aérea de Torrejón · Discovered Java and serious programming |
+| 2022 | Bachillerato de Ciencias — Physics & Maths · Summer lifeguard @ Base Aérea de Torrejón · First HTML/CSS → built the SBI English project for classmates |
+| 2023 | Discovered Java and serious programming |
 | 2024 | Computer Engineering @ UAH · Java · C · Data Structures · OS · Networks · Oracle SQL |
 | 2025 | Java RMI · POSIX threads · Algorithms (DP, B&B) · Oracle RBAC · Swimming Instructor @ Humanitas |
 | 2026 | PostgreSQL internals · Advanced Databases · Python |
@@ -293,7 +260,6 @@ Technical documentation and project reports.
 
 Certified C1+.
 Bilingual school background.
-Daily professional use at Base Aérea de Torrejón.
 
 </td>
 </tr></table>
@@ -320,7 +286,7 @@ Projects built outside of coursework — some finished, some still in progress.
 
 ## 💬 Ask Me About
 
-**Java concurrency & distributed systems** · **PostgreSQL physical storage & indexing** · **Dynamic Programming & Branch and Bound** · **Network security fundamentals & the Fortinet Security Fabric** · **Security protocols in critical environments**
+**Java concurrency & distributed systems** · **PostgreSQL physical storage & indexing** · **Dynamic Programming & Branch and Bound** · **Network security fundamentals & the Fortinet Security Fabric**
 
 ---
 

@@ -4,7 +4,7 @@
 
 [![English Version](https://img.shields.io/badge/EN-English_Version-161616?style=for-the-badge&labelColor=FF2A2A)](README.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1100&color=FF2A2A&center=true&vCenter=true&width=720&lines=Sistemas+Concurrentes+%7C+Bases+de+Datos+%7C+Algoritmia;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Fortinet+NSE+1-3+%C2%B7+en+curso;3%2B+a%C3%B1os+en+entornos+de+seguridad+cr%C3%ADtica;Buscando+pr%C3%A1cticas+%C2%B7+Verano+2027)](https://danix29.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1100&color=FF2A2A&center=true&vCenter=true&width=720&lines=Sistemas+Concurrentes+%7C+Bases+de+Datos+%7C+Algoritmia;Java+%7C+C+%7C+Python+%7C+SQL+%7C+PostgreSQL;Fortinet+NSE+1-3+%C2%B7+en+curso;Buscando+pr%C3%A1cticas+%C2%B7+Verano+2027)](https://danix29.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldnb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldnb/)
 [![Email](https://img.shields.io/badge/Email-dani.del.nogal%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF2A2A)](mailto:dani.del.nogal@gmail.com)
@@ -34,7 +34,7 @@ Rediseño brutalista industrial con intro de arranque, bilingüe EN/ES.
 
 <table><tr><td valign="top">
 
-Estudiante de Ingeniería Informática en la UAH que combina los estudios con **más de 3 años de experiencia profesional activa** en entornos de alta responsabilidad. Trabajo simultáneamente como **Especialista en Seguridad, Salvamento y Gestión de Riesgos** en la Base Aérea de Torrejón y como **Instructor de Natación y Coordinador de Actividades Acuáticas** en Humanitas Bilingual School — ambos roles exigen toma de decisiones bajo presión, coordinación de equipos, supervisión de protocolos de seguridad y comunicación técnica en entorno bilingüe (ES/EN).
+Estudiante de 3.º de Ingeniería Informática en la UAH. Compagino la carrera con un trabajo a tiempo parcial como **socorrista** (desde octubre de 2024) e **instructor de natación** (desde abril de 2025) en Humanitas Bilingual School, después de un verano como socorrista en la Base Aérea de Torrejón (2022). Son trabajos de supervisión de seguridad, control de acceso y trato con familias en un entorno bilingüe (ES/EN).
 
 Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI, POSIX threads), **bases de datos avanzadas** (PostgreSQL, Oracle, RBAC) y **algoritmia** (Programación Dinámica, Backtracking, Branch and Bound). Base analítica en ciencias con interés genuino en astrofísica y física.
 
@@ -43,7 +43,7 @@ Especialización técnica en **sistemas concurrentes y distribuidos** (Java RMI,
 | | |
 |:---:|:---|
 | 🎓 | Ingeniería Informática · UAH · 3er curso |
-| 💼 | 3+ años en entornos de seguridad crítica |
+| 💼 | Socorrista e instructor de natación (tiempo parcial) |
 | 🔐 | Fortinet NSE 1–3 · en curso, sin certificar |
 | 🇪🇸 | Español C2 · Nativo |
 | 🇬🇧 | Inglés C1+ · Certificado |
@@ -217,44 +217,11 @@ Prácticas hechas con restricciones reales. Cada asignatura tiene su propio repo
 
 ## 💼 Experiencia Profesional
 
-<details>
-<summary><b>🛡️ Especialista en Seguridad, Salvamento y Gestión de Riesgos</b> · <code>Mayo 2023 – Presente</code> · Base Aérea de Torrejón · Humanitas Bilingual School</summary>
-<br>
-
-![](https://img.shields.io/badge/Protocolos%20de%20emergencia-161616?style=flat-square)
-![](https://img.shields.io/badge/Logística%20operacional-161616?style=flat-square)
-![](https://img.shields.io/badge/Análisis%20preventivo-161616?style=flat-square)
-![](https://img.shields.io/badge/Control%20de%20infraestructura-161616?style=flat-square)
-![](https://img.shields.io/badge/Evaluación%20de%20riesgos-161616?style=flat-square)
-![](https://img.shields.io/badge/Informes%20de%20incidencias-161616?style=flat-square)
-
-- Ejecución de protocolos avanzados de seguridad y emergencia en instalaciones militares y de acceso público con alto volumen diario de usuarios, garantizando cumplimiento sin incidentes de la normativa nacional de seguridad
-- Coordinación y supervisión de equipos de seguridad multipersona: planificación de turnos, procedimientos de control de acceso, gestión de flujos de usuarios y monitorización de aforo en tiempo real
-- Evaluación preventiva sistemática de riesgos mediante procedimientos de evaluación estructurados, identificando y neutralizando peligros potenciales antes de su escalada
-- Monitorización técnica y registro de parámetros críticos de infraestructura (calidad del agua, equipos de seguridad, condiciones de instalaciones) con ciclos de mantenimiento preventivo documentados
-- Redacción y mantenimiento de informes operacionales de incidencias, registros de acceso y diarios de actividad conforme a estándares regulatorios
-- Operación activa en entorno completamente bilingüe (ES/EN), comunicando directamente con personal militar internacional a diario
-
-</details>
-
-<details>
-<summary><b>🏊 Instructor de Natación y Coordinador de Actividades Acuáticas</b> · <code>Feb 2025 – Presente</code> · Humanitas Bilingual School — Torrejón de Ardoz</summary>
-<br>
-
-![](https://img.shields.io/badge/Planificación%20estratégica-161616?style=flat-square)
-![](https://img.shields.io/badge/Supervisión-161616?style=flat-square)
-![](https://img.shields.io/badge/Cumplimiento%20de%20seguridad-161616?style=flat-square)
-![](https://img.shields.io/badge/Reporting%20institucional-161616?style=flat-square)
-![](https://img.shields.io/badge/Seguimiento%20de%20rendimiento-161616?style=flat-square)
-![](https://img.shields.io/badge/Coordinación%20de%20equipos-161616?style=flat-square)
-
-- Diseño e implementación de programas técnicos de entrenamiento individualizados para alumnos de todos los niveles, definiendo objetivos medibles, hitos de progresión por fases y criterios de evaluación periódica
-- Gestión del ciclo completo de sesiones: planificación, ejecución, supervisión de seguridad y reporting post-sesión a dirección del colegio y familias
-- Coordinación de horarios de actividades en múltiples grupos simultáneos (infantil, adultos, competición) optimizando la asignación de calles y recursos de instructores
-- Cumplimiento pleno de la normativa de seguridad acuática, realizando inspección diaria de instalaciones y verificación de equipos antes de cada sesión
-- Entrega de informes de progreso y documentación de incidencias a la dirección del centro, demostrando comunicación clara y responsabilidad a nivel institucional
-
-</details>
+| Puesto | Periodo | Dónde | Qué hago |
+|---|---|---|---|
+| Instructor de natación (tiempo parcial) | Abr 2025 – Presente | Humanitas Bilingual School | Clases de natación para bebés, niños, adultos y niños con discapacidad; organización de clases interactivas; vigilancia de seguridad en la piscina |
+| Socorrista (tiempo parcial) | Oct 2024 – Presente | Humanitas Bilingual School | Socorrista en la piscina de instrucción para todas las edades; mantenimiento, control de acceso y monitorización de las instalaciones |
+| Socorrista y staff de piscina (verano) | Jun 2022 – Ago 2022 | Base Aérea de Torrejón (con Instinto Deportivo) | Socorrismo en piscinas de ocio e instrucción, desde infantiles hasta olímpicas; control de acceso y apoyo en actividades acuáticas junto a otros socorristas y personal |
 
 ---
 
@@ -263,8 +230,8 @@ Prácticas hechas con restricciones reales. Cada asignatura tiene su propio repo
 | Año | Qué pasó |
 |-----|----------|
 | 2018–22 | ESO con ampliación científica (astronomía y astrofísica) · Programa preuniversitario de Astrofísica y Astrobiología en Cumlaude School |
-| 2022 | Bachillerato de Ciencias — Física y Matemáticas · Primer HTML/CSS → english-project para unas compañeras del instituto |
-| 2023 | Especialista en Seguridad @ Base Aérea de Torrejón · Descubrí Java y la programación en serio |
+| 2022 | Bachillerato de Ciencias — Física y Matemáticas · Socorrista en verano @ Base Aérea de Torrejón · Primer HTML/CSS → english-project para unas compañeras del instituto |
+| 2023 | Descubrí Java y la programación en serio |
 | 2024 | Grado en Ingeniería Informática @ UAH · Java · C · Estructuras de Datos · SSOO · Redes · SQL Oracle |
 | 2025 | Java RMI · POSIX threads · Algoritmia (DP, B&B) · Oracle RBAC · Instructor de Natación @ Humanitas |
 | 2026 | PostgreSQL internos · Bases de Datos Avanzadas · Python |
@@ -293,7 +260,6 @@ Documentación técnica e informes de proyecto.
 
 C1+ certificado.
 Entorno escolar bilingüe.
-Uso profesional diario en Base Aérea de Torrejón.
 
 </td>
 </tr></table>
@@ -320,7 +286,7 @@ Proyectos fuera del plan de estudios — algunos terminados, otros aún en march
 
 ## 💬 Pregúntame sobre
 
-**Concurrencia en Java y sistemas distribuidos** · **Almacenamiento físico e indexación en PostgreSQL** · **Programación Dinámica y Branch and Bound** · **Fundamentos de seguridad de redes y el Fortinet Security Fabric** · **Protocolos de seguridad en entornos críticos**
+**Concurrencia en Java y sistemas distribuidos** · **Almacenamiento físico e indexación en PostgreSQL** · **Programación Dinámica y Branch and Bound** · **Fundamentos de seguridad de redes y el Fortinet Security Fabric**
 
 ---
 
